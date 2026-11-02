@@ -1,0 +1,38 @@
+
+name: Test OpenAlex connection
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check OpenAlex authentication
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: |
+          python - <<'PY'
+          import os
+          import urllib.request
+          import urllib.parse
+          import urllib.error
+
+          key = os.environ.get("OPENALEX_API_KEY", "")
+          if not key:
+              raise SystemExit("ERROR: GitHub secret is missing")
+
+          url = "https://api.openalex.org/works?" + urllib.parse.urlencode({
+              "api_key": key,
+              "per_page": 1
+          })
+
+          try:
+              with urllib.request.urlopen(url, timeout=30) as response:
+                  print("SUCCESS: OpenAlex authentication works")
+                  print("HTTP status:", response.status)
+          except urllib.error.HTTPError as error:
+              print("FAILED: HTTP status", error.code)
+              print("Response:", error.read(500).decode("utf-8", errors="replace"))
+              raise SystemExit(1)
+          PY
