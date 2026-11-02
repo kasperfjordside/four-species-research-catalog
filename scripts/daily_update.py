@@ -58,6 +58,7 @@ def run(root, api_key, today=None, pages=3, dry_run=False):
             for page in range(pages):
                 params = {
     'search.title_and_abstract': phrase,
+    'sort': 'publication_date:desc',                
     'per_page': '100',
     'cursor': cursor,
     'api_key': api_key,
