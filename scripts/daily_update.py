@@ -74,8 +74,8 @@ def run(root, api_key, today=None, pages=3, dry_run=False):
                 cursor = (result.get('meta') or {}).get('next_cursor')
                 if not works or not cursor:
                     break
-                
-                                if page + 1 == pages:
+
+                if page + 1 == pages:
                     # This is a bounded newest-first search, not a complete
                     # historical scan. Keep the page limit to control API usage.
                     print(
