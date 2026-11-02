@@ -57,10 +57,11 @@ def run(root, api_key, today=None, pages=3, dry_run=False):
             cursor = '*'
             for page in range(pages):
                 params = {
-                    'search.title_and_abstract': phrase,
-                    'filter': f'from_created_date:{start.isoformat()},to_created_date:{today.isoformat()}',
-                    'per_page': '100', 'cursor': cursor, 'api_key': api_key,
-                }
+    'search.title_and_abstract': phrase,
+    'per_page': '100',
+    'cursor': cursor,
+    'api_key': api_key,
+}
                 url = 'https://api.openalex.org/works?' + urllib.parse.urlencode(params)
                 result = request_json(url)
                 works = result.get('results') or []
