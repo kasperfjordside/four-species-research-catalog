@@ -44,11 +44,11 @@ def run(root, api_key, today=None, pages=3, dry_run=False):
     if len(records) > MAX_RECORDS:
         raise ValueError('Existing catalog exceeds Android record cap')
     today = today or dt.datetime.now(UTC).date()
-    last = discovery.get('last_successful_scan')
-    # Seven-day overlap handles delayed indexing and failed runs. First scan covers 14 days.
-    start = (dt.date.fromisoformat(last) - dt.timedelta(days=7)) if last else (today - dt.timedelta(days=14))
-    if start > today:
-        raise ValueError('Discovery checkpoint is in the future')
+    
+# Free-plan discovery uses bounded, newest-first searches.
+# No date-based checkpoint or paid OpenAlex sync filter is used.
+# Publication-date sorting does not guarantee complete discovery.
+
     now = dt.datetime.now(UTC).replace(microsecond=0).isoformat().replace('+00:00', 'Z')
     found = {}
     fetched = 0
@@ -115,7 +115,14 @@ def run(root, api_key, today=None, pages=3, dry_run=False):
         raise ValueError('Would exceed Android 32 MiB page limit; no files changed')
     if len(new_records) != len({r['id'] for r in new_records}):
         raise ValueError('Duplicate publication ID')
-    print(f'Scanned from {start}; OpenAlex results={fetched}; candidates={len(found)}; added={len(additions)}; quarantined={len(quarantine)}; version={catalog["catalog_version"]}')
+    
+print(
+    f'Bounded newest-first scan; OpenAlex results={fetched}; '
+    f'candidates={len(found)}; added={len(additions)}; '
+    f'quarantined={len(quarantine)}; '
+    f'version={catalog["catalog_version"]}'
+)
+
     if dry_run:
         print('DRY RUN: no files written')
         return len(additions)
