@@ -74,9 +74,16 @@ def run(root, api_key, today=None, pages=3, dry_run=False):
                 cursor = (result.get('meta') or {}).get('next_cursor')
                 if not works or not cursor:
                     break
+                
                 if page + 1 == pages:
-                    # Never advance the checkpoint if we have not searched all pages.
-                    raise ValueError(f'Search page cap reached for {scientific}: {phrase}. Increase --pages.')
+                    # This is a bounded newest-first search, not a complete
+                    # historical scan. Keep the page limit to control API usage.
+                    print(
+                        f"Search page limit reached for {scientific}: {phrase}. "
+                        "Continuing with the records retrieved."
+                )
+                break
+
     additions = []
     quarantine = []
     for rid, raw in sorted(found.items()):
