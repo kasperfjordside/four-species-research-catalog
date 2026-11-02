@@ -116,12 +116,12 @@ def run(root, api_key, today=None, pages=3, dry_run=False):
     if len(new_records) != len({r['id'] for r in new_records}):
         raise ValueError('Duplicate publication ID')
     
-print(
-    f'Bounded newest-first scan; OpenAlex results={fetched}; '
-    f'candidates={len(found)}; added={len(additions)}; '
-    f'quarantined={len(quarantine)}; '
-    f'version={catalog["catalog_version"]}'
-)
+    print(
+        f'Bounded newest-first scan; OpenAlex results={fetched};'
+        f'candidates={len(found)}; added={len(additions)}; '
+        f'quarantined={len(quarantine)}; '
+        f'version={catalog["catalog_version"]}'
+    )
 
     if dry_run:
         print('DRY RUN: no files written')
