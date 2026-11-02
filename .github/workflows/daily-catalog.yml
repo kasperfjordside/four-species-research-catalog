@@ -30,7 +30,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/catalog.json publisher_state.json discovery_state.json
+          git add -A -- docs/catalog.json docs/catalog-page-*.json publisher_state.json discovery_state.json
           if ! git diff --cached --quiet; then
             git commit -m "Update four-species research catalog"
             git push
