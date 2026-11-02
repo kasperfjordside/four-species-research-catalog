@@ -124,10 +124,18 @@ def run(root, api_key, today=None, pages=3, dry_run=False):
     if additions:
         changes[catalog_path] = payload
         changes[state_path] = (json.dumps(state, ensure_ascii=False, indent=2) + '\n').encode('utf-8')
-    discovery['last_successful_scan'] = today.isoformat()
+    
+    # Record a bounded search, not a complete daily synchronization.
+    discovery.pop('last_successful_scan', None)
+    discovery['last_bounded_scan'] = today.isoformat()
+    discovery['scan_mode'] = 'newest_first_bounded'
+    discovery['scan_complete'] = False
     discovery['last_added'] = len(additions)
     discovery['last_quarantined'] = quarantine
-    changes[discovery_path] = (json.dumps(discovery, ensure_ascii=False, indent=2) + '\n').encode('utf-8')
+    changes[discovery_path] = (
+        json.dumps(discovery, ensure_ascii=False, indent=2) + '\n'
+    ).encode('utf-8')
+
     for path, data in changes.items():
         temp = path.with_suffix(path.suffix + '.tmp')
         temp.write_bytes(data)
