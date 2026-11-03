@@ -1,0 +1,52 @@
+{
+  "last_bounded_scan": "2026-11-03",
+  "scan_mode": "newest_first_bounded",
+  "scan_complete": false,
+  "last_added": 760,
+  "last_quarantined": [
+    {
+      "id": "openalex:W2173349527",
+      "reason": "HTML-contaminated DOI"
+    },
+    {
+      "id": "openalex:W2917545399",
+      "title": "Marine mammal surveys in Dutch North Sea waters in 2017",
+      "doi": "10.18174/448322",
+      "conflicting_id": "openalex:W2574685568",
+      "conflicting_title": "Marine mammal surveys in Dutch North Sea waters in 2015",
+      "reason": "duplicate_normalized_doi"
+    },
+    {
+      "id": "openalex:W36359086",
+      "title": "Effects of New Seal Introductions on Conspecific and Visitor Activity.",
+      "doi": "10.3390/ani12212962",
+      "conflicting_id": "openalex:W4307948949",
+      "conflicting_title": "Effects of New Seal Introductions on Conspecific and Visitor Activity",
+      "reason": "duplicate_normalized_doi"
+    },
+    {
+      "id": "openalex:W4239382102",
+      "reason": "HTML-contaminated DOI"
+    },
+    {
+      "id": "openalex:W4394933228",
+      "title": "Trophic ecology of two sympatric seal species at the limit of their distribution range",
+      "doi": "10.70675/e84c97afz224dz4e54z984bz1e9d8516dbe1",
+      "conflicting_id": "openalex:W7150740684",
+      "conflicting_title": "Écologie trophique de deux espèces sympatriques de phoques en périphérie de leur aire de répartition",
+      "reason": "duplicate_normalized_doi"
+    },
+    {
+      "id": "openalex:W7111386965",
+      "reason": "HTML-contaminated DOI"
+    },
+    {
+      "id": "openalex:W7213647607",
+      "title": "Estimates of cetacean and pinniped bycatch in Northeast and Mid-Atlantic bottom trawl fisheries, 2008-2013",
+      "doi": "10.7289/v5348hb4",
+      "conflicting_id": "openalex:W2916546084",
+      "conflicting_title": "Estimates of cetacean and pinniped bycatch in Northeast and Mid-Atlantic bottom trawl fisheries, 2008-2013",
+      "reason": "duplicate_normalized_doi"
+    }
+  ]
+}

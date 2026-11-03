@@ -1,7 +1,7 @@
 {
   "catalog_id": "four-species-research-catalog",
-  "catalog_version": 3,
-  "generated_at": "2026-10-30T13:41:36Z",
+  "catalog_version": 4,
+  "generated_at": "2026-11-03T12:29:21Z",
   "entries": {
     "openalex:W1001676818": {
       "digest": "4e97e02b21dfc824767c21c77c88303c3e43706f991dd14e0cca07df96882ba0",
@@ -38946,6 +38946,3046 @@
     "openalex:W99943241": {
       "digest": "3eca269264d712f2d468d88d0394c602a9f5a3da18e484071902b6b30862853e",
       "updated_at": "2026-10-30T11:22:14Z"
+    },
+    "openalex:W2037148795": {
+      "digest": "3423e13b534a46ac3b1f8219069c7803b2d3b602aede4fa5d9cbf851e9558502",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2074423750": {
+      "digest": "45e0c260231326d72bcc930a223827cf444cffbeec16c3edc60cce32cbbc0ab7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2089855286": {
+      "digest": "283f87a63e56288ad9516d9b81ed39ce7b941806ffc5aab491788fa2bedea597",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2109037351": {
+      "digest": "d2193ff11c14efd21f862ad4671a90fb321c8dabf125aa0a64fc0b27945fb70f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2186091243": {
+      "digest": "e2c20b6b4bd4ebcb28f604cf6874bd45269cb3c1a2e8213e38e4c75304151073",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2325853611": {
+      "digest": "2d5dae4e5a84c5e7d67e1f0eaddcc5affa3ac8725ebecbd6c2dec6b3704ef5f2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2330032340": {
+      "digest": "a165c38f4f6580abdd82aad16054863a75133cf69ca21e24e607c6fa281efa64",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2416846847": {
+      "digest": "ac7bd375a4d6ed2ac3f0e2d303dee41748382b8d57338a98fc52c445436e323b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2476345788": {
+      "digest": "54d9dd918a75dfbfd377bf8b81ed3148fcd68293e7332d46f41d00a3be974c40",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2480258199": {
+      "digest": "ea79a0bd0294a42b296c9f5490fe240a1473b0c13a13378584df91ae55bb0b85",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2529265664": {
+      "digest": "57008937b03c5c730c9cbab1e985f917380625fde8aa2f09eadc485c5027e9fd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2555951441": {
+      "digest": "93ce361eb599b6378a8faef465d61aeebcf0e448f1a64aa5ee135a42b2596f65",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2620549501": {
+      "digest": "799406d3107adb202f4b14d631038c0598585b150d63e856d980ed8c4c09d810",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2745887375": {
+      "digest": "65fa30f1c80939f5bb552d0f8431c325cba1f96d3b8c06e1293c5931ef829c6d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2763878755": {
+      "digest": "02fee78ce747a24c8c383d5aea794d86f84d822cda4f125be995fe26b73746af",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2884134467": {
+      "digest": "05373313268895e547dd6022fb2dad5e4f8d315cfef6bca7eab776b677a3211f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2895434718": {
+      "digest": "c7801e3963ad740f2f6be652a07afb32b57d8fb785e0f82ffe1855490b095519",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2917610097": {
+      "digest": "3ee5caab9ade4ba20d25bea03e63c1f156923e21d611deebae658c02009d8999",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2941134519": {
+      "digest": "ed6ce51ccdd3a15e98009aee4b179979ca12693e92090f81f8fc8b177f0fc78b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2941549032": {
+      "digest": "64a7823d4c461f447fa460aa153e2df28143f7e271a7dde1c4ffe85407942209",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2946480635": {
+      "digest": "1aefd54ef4cf2f64a6cbbd4fcef71708b85b71414c9405bcba26ede3c2b3f4e6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W2949777306": {
+      "digest": "d34d71a6b66c2c91672f8a7a18ec4ca1b240a81eef3ee7194fad1936acb36610",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W3013295890": {
+      "digest": "0f09f7ce97c4db1f8816e5ffd347885546743f17469d4fbbb3033c4eda66185f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W3014479307": {
+      "digest": "9c6218849df4b94579c588b201bedfb9b3ec8a4958ae6c4ecae2780b119ebe9b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W3015006328": {
+      "digest": "4de6ff153f276bca17f0f297ea344bc3c3786efebf8fa6d48376941193dac35a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W3093005599": {
+      "digest": "44792d1a2e347ed9e5597033782fbb19afe3749ec20942a1231f8e3a40fb27f6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W3112302248": {
+      "digest": "507a644ab21978d54c197e72bec2fc0caed571aede33d86bd92a181eff24d94d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W3149630453": {
+      "digest": "d5186d81d792d7051a6dc0976b79d84d46b4b353589e675e4605d4aa030c9a4c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W3169156828": {
+      "digest": "47af1d8c9f8a4b7c833512f9eafabdb58ffb0db455200e89d67301aadd2ac8b6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W3171257894": {
+      "digest": "8caf0d663bde322f7183ec0df5832c99656faca7d2328654ec40195ea33cda3a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W3175323993": {
+      "digest": "ec0fd731b253dbd9315f69b6759412af09b7346845ff2e59cf465889df2e5b88",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W3201869715": {
+      "digest": "a89b63dbf517c49b4eb8c8be2231de1a10bd74c7bfa898de133adfcc4d6d31ba",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4221108460": {
+      "digest": "1a0954687d0061860b4767ce38f4eac2f20bf2caead3718b404f4fc8d3dbfb82",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4318542303": {
+      "digest": "fb82dbc3acb8422628bc8e00b43ecea7e04ef381cba869bdb8ed67914364a28e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4318615626": {
+      "digest": "02b3b369654ce6c52a939660225af0a861cbcfb8b06c562cffb788cbc573fc83",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4319946506": {
+      "digest": "ff0f0034cb5576468c880ec5a59e9fa58d1a72b48e29cf1968e2763e70eb0379",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4328051233": {
+      "digest": "d67a78f034986c12e8a116954c7690581ee753a2b213620949b9cd14761cc336",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4366087168": {
+      "digest": "5b08433c6fdb1d3f4c1d431a68d238da5352b27e35ed59aa9dadcc47589bfe9b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4380787520": {
+      "digest": "02ce2d2391f7dcaed5efb253c6040663b78d65f8ad963cecfadf3798017c771f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4386118877": {
+      "digest": "d3c5900c61b7da68bb4dde04993a8e2f40636d5ba4cc90438bb7eb6ad35744b9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4386244956": {
+      "digest": "6e5a23593e971328bbd0967d6cbea9dd82f28b51c48ea7927429c79547e36f1b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4386401652": {
+      "digest": "8c65f96a733d00e6ca13a3f54ecc6af2db614af2e707949ca2aea97bf26fdedb",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4386416941": {
+      "digest": "3d3d4112d8c8d912bf64a970b185c4c680fb6f0a0789bfc95107e30d60e07ade",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4386630478": {
+      "digest": "3fe2198ea2cc5710b4b62402128e006b32056a21263332dce63ff6d216d5c8dc",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4386631508": {
+      "digest": "33ed58b11aadc6a65d0d461ad56861cafc5f3153f0c413f02199704644df605b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4387414893": {
+      "digest": "341ebe915c91ae4a3e1b24508c327a53eee90abe9deeb1fc9f156c3c22417dd9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4387643943": {
+      "digest": "8cc16440377dbb70cbee8976feb21c6b58f75e4918b07872157a1dbda50ec14b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4390712316": {
+      "digest": "6db90d1970fd909479e3d1dabf35245831386fc46fd3c9419f3dee0455555218",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4390713087": {
+      "digest": "988fc779acefa290e7a5bfe2f13d646380163e9eee63408562bd87df0d10689e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4390713107": {
+      "digest": "2a845d7f18ec2988ca8601bb9dc3d946e2bb885ae9d993a42a2936b30b14292f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4390850649": {
+      "digest": "2cb2a9b881177367db10d56b5e0e8ad9f00d0ce6dd6741d99cf8fd61f8368f00",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4392861960": {
+      "digest": "617ed16aa06e58d7972e773853b7ef97f9dfe2650fb9dc6c63d9068a7ea71073",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4394166482": {
+      "digest": "83a43f5c5ec5a1466e32aa4516d3ce3a80f9aab678b82962ec9a5b60caa70d27",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395177510": {
+      "digest": "14f0854ad3ed4905a944fcc5bc10fb446ff4bfee91eca3c12fd02855bb6544cd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395183723": {
+      "digest": "cb96fe1dd88e7a5b8b757e0010dd2544b2c2eaccf225f10c671d090f26666069",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395217121": {
+      "digest": "8824e1693ce6ba49cdd068df1221d71d78e2b947f8dca6ea3733cc8ec78c2f5f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395219777": {
+      "digest": "4f8aeea89fa4d8f09f0c4c88faad20f1301bfaba8eb34ac29b4def1000cf8bac",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395219985": {
+      "digest": "fe475cd452f7614b92ea6a399c7af33a133df820884d595fd6d74c7efdcbbf08",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395247028": {
+      "digest": "43f65a50ace29460eb444c9c5c2080cfdf595e481c312acf7f61200f39a27576",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395253704": {
+      "digest": "a2012e1eb3f94e9ceef2d83c581bf061ed1f631813f23019b569e78b66021e4d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395292585": {
+      "digest": "0a1c7d860a4f39190021dc0eee333dae5298209c0b894d72159df65cfe8446dd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395313028": {
+      "digest": "9ece7e9601d948d8179722224a78d842d010710728acce797e2e4c0673817ca4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395315692": {
+      "digest": "7e9dbc8857fd04eae1ade257ba3ec769e5885b3535ba967b5d32148054293843",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395342085": {
+      "digest": "6e4f798295709082181eb3c1a865c22a4ed8e76caed8311a4d4948cd925469cf",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395345520": {
+      "digest": "1503eafe007700d62b98932bf64ef4261ef3a7d8e3588cb4cb530cef865752a8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395499285": {
+      "digest": "e8426b679ed4abb95541aa188753ea43ca00418a1c96bd68ddcbda91209b3b7c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395500612": {
+      "digest": "a5ddd8de44fd258fc9530f121e55182ad0ad4278efcd38409e32517279e6ae35",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395511115": {
+      "digest": "477f969cdd728ed1e7e3a51d0a98dc822b80bbeec287721c3766f3b81cdf3946",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395541488": {
+      "digest": "7269281c4e581f3b0cf59cf17c3ce3a97d6a408bd3300401c84f50cfd520fbaa",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395595518": {
+      "digest": "d4542a0c15284c6032bbda7e256b7d8d3014bd1331f1ba7fda6662be87b25f6d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395601551": {
+      "digest": "4eff464f3621a5fd45b94953622ee73c445c78526c9f8a3fcf699ac4490a581e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395606659": {
+      "digest": "88f9972f80bd159fbc8488c89ffea7f84336463bc2dc642ed40b028863ff359d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395623946": {
+      "digest": "0794d74087f378613ec4e7a886835938c91898209c355ad89c826ffa554174e4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395722143": {
+      "digest": "33472414e53032dfa28cf10d854bf07092cc4497bbd3f38170215b87362e0b81",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395812335": {
+      "digest": "8db8f44d3412dfceda7523c6fd69da1d871ee975e9aa203f93c11ecbfbfa9052",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395861954": {
+      "digest": "577fe57f3df03d3e7197356f90e7dc3937aadb297caf151bff534ddea8ad461c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395879367": {
+      "digest": "9dcda57bd6bbeb6f6138db6077a100206ddb928a51a72792fc4379a7ff429e5a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395935454": {
+      "digest": "1db9c11d84690978719c6d850007ab7350789357113ec93a0dfa898dbdb16605",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395936749": {
+      "digest": "0922db63fd831e0fd45f38b96121f85fbc114f62b824fd76beed5822df348f9a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4395994925": {
+      "digest": "1326d4cca815d4b11073089ccf89b254139e84580c5a5a8a07565e60aa6e2cbd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396008435": {
+      "digest": "2706825fb8b708c61c9fa5d88b4431218ecc8b8dd02b61abcabb79c01fbd53af",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396009193": {
+      "digest": "df6171923baacc85cbaf0eb0c20c3d78166aaf9e0deec5a056b684ca3dad74f6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396039308": {
+      "digest": "7bd5523ff7ef1cc1d08f7a88a93d284776713f69b6d7c2f738580270893187fc",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396048475": {
+      "digest": "0cb6d6f9720918965a61bd3b6c7055279df8a4f87337cc3b4c3e079e31bd73dd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396089304": {
+      "digest": "e83725a6495a14da3b930d28c077e8b69d7fa5150913fd15c9bd3d710286513b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396125287": {
+      "digest": "eb3899edc9e5cb58fde66e4d5e1cd5a012970b4c850c3f88b0c0cec165409d23",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396199358": {
+      "digest": "822946dd873054144f8413fe283e73e36fc1f45e420d49fa86a50d73bcdf771c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396202884": {
+      "digest": "da602dae93fd229864bcbf0b8b98a59a69468ae0fc14d2f79bbd91d50b15e097",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396205225": {
+      "digest": "58959d58ff8d930a16d6527c04d70488b8d2af2490baf3407401e979b532f8f6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396247955": {
+      "digest": "ae7dca3b4f6d0c78ce276e4b77a4b2ea53066e710ed81ecb72a3e804034d9273",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396369979": {
+      "digest": "eb2c9acc4710770b0140aa210f66ddf9113b10b9721056d634aa531af9241213",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396388169": {
+      "digest": "9adf7ea115100b975bc825aa1ae888d6096d8cb6447ffa58f9f5795a99ff59c0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396399693": {
+      "digest": "7192ed7f9efa3488bece83ff5d48f587b4dbe7419834dc3ed7884faf1b20810c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396443824": {
+      "digest": "625d80f8df6e79e7401e762241486489208261c2bf95f6fee143b9309441b633",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396475417": {
+      "digest": "0af252aea00524a5d5a4ca3ba8675e11ec03820cb5d5ac5280708f0d0ef945cb",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396475469": {
+      "digest": "fc3fc4bf48d45f9e86047a4bfbcce0c03b851ce726e12e9b81d49af190079d3d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396580975": {
+      "digest": "71c6a3541fc4888f4608885e2c2a7c4563d415cfef83c8c5cd55ad7eb01d7f1b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4396740340": {
+      "digest": "21e7f6d29611060c31036e36e1ae190fca3a181a854b427170647ddc17d1b31d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4399760982": {
+      "digest": "d9b579c72c8e80fb9fe31ce60149bce1d4a79709ac92c801b6938aea5b384cf4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4400068481": {
+      "digest": "a1fbf10b531184fd700bd1d18914fa37f29914d8331486607e35938071a81b50",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4401816094": {
+      "digest": "f9cd2ba682d0e86bb8b20e46a980e72234fb2f960d7fff778d63dba1c6a95009",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4401906119": {
+      "digest": "a306e53b4b6a42a2099a45b139ab9c36e8bd3ccfeb91f09dcd5aa7f9f13a80f3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4402647702": {
+      "digest": "f43c98907d7811398d60b10de1aeb6959033e93ce7f5ce2c004f850cbca3ef3c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4403274989": {
+      "digest": "2f9871ab47ac96898152c3f13b4a303f5d1ad9c6463d01c8a1c22b996b3da6da",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4407256757": {
+      "digest": "36b912261f7346f961cacc438985d51efe5f6ba115e37f3c66e1a4f709180b3b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4407694944": {
+      "digest": "78e9cd3ac44941db6b5a005fbe3fdc8d177ab70304bb141cf76244a8d1f65a2d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4408046896": {
+      "digest": "7f1e70ec7f7d1bb6431043c67e7ce32b2bd5e9baa78b393a114ae7485f7a63a0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4411006159": {
+      "digest": "3c66ce136236901464621cad79b9583464454632f6e26f32df7329de955c7af1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4411273783": {
+      "digest": "34110791c9742cc3bf870f98b1da1244fa84212d078da4392cbf59903a9afb3c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4411320599": {
+      "digest": "c99a75542b5a6457dc2963e989fb39c9e0729c2b47a6715643a0897ea0a528bc",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4411406555": {
+      "digest": "65b96043cb409db1dab663ec6cdd2657f74aa8b700d6c82171be8ab66c3a3583",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4411468614": {
+      "digest": "5d930f98a6fcf35f17e28274bec56a425bdde4ae785d738ceb7d1c754d290e9e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4411573078": {
+      "digest": "23e3b9c2a158c36dc54881fa4f3cadf4742ecfbe643251dd4645c221afafd4ff",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4411825384": {
+      "digest": "c398bf511651815ed324a1e0377bdbfde4647eeeb4b6487501b56cc341d41fbd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4412327240": {
+      "digest": "1b44add023ba7a1db621ff9d6508adb13188aa684b02e5240aebe5728bda45c5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4414830800": {
+      "digest": "48e3594f30a7d53ec9debf301dc6d537da03b221e33d7a0f821a19909f56ec41",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4415432468": {
+      "digest": "c3eb8be5a2654771a7cbf8b9df34887e44a51baeaeb7fe134b32b1b7c2c9c938",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4416032025": {
+      "digest": "12715dab86fa1ccaaaa44586ca433f2b3718d649987b8ba2dfeaaa905c207f42",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W4416608247": {
+      "digest": "397b0e7f736a2286bf3cf87969b419f502e2850aee8c18153acf171323556535",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W614969338": {
+      "digest": "d2fcfd691fe81f07cae13ad1b41e5491723b6f2ba98b4a79401cf43fdefa9628",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7103879561": {
+      "digest": "4e50e1c538afea109fed25ed2e02ec384b201f6f9344bb5b91ce1dc7d3ba23b9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105648984": {
+      "digest": "3edc56ebbfcaa23eccf2354989879e1be88216542848ecc8de033bad957a6bf7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105658350": {
+      "digest": "ee857f8edf51e2744c6342cc15ec7c836f864b0512d75adf1612eda32cbf0f65",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105664093": {
+      "digest": "e7ca69674d57d81e5374645d9bf5c16935a5557b8e47e51d3868989cf34cdc2d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105664950": {
+      "digest": "0b00f1a1bc146446c9f9d891d3005959cab752b52db4b39f5250638d1c35b054",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105672392": {
+      "digest": "775e6c2a363ae1b53472e12abb89e2c655da745f9f9069a92cb4dd6742d8572c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105674586": {
+      "digest": "5c14e98e1b383744cca9f12ab9137929f7b58a19baff53f65527f6ffcc3b8708",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105674817": {
+      "digest": "ee49f468db5ed69082bbe1752c175c8d39988e2baef2431e239c83962905d698",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105676530": {
+      "digest": "93ecf456ed85117570fa1e1ecc03e83ad92d5a9142be30daa6af4dc9bad4684f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105678934": {
+      "digest": "edfc7224091893e8a444c2880a573ac29de6264a37f4352cf4175b4ea14bfbf9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105680041": {
+      "digest": "e24cd74ea02d3fefaf31f7c88d8b53c3304b7703ed7d14ba09dd844cf1d5d17a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105682385": {
+      "digest": "770dcaa512b16af9f687c202ec04da2e480d07f0c2b9d46f40daa09f9023f289",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105682805": {
+      "digest": "cb0295fa6b4e80853fced550014d341deb8d838590c57185014fe432a809fda4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105695605": {
+      "digest": "c46a9b1c10f9c1db6009f4cc022f098724e524b3a635ec6fd2bf59c048ca664a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105697994": {
+      "digest": "70950334c00631c610aff8fe0c3823736b085bbc2963439b897d159f28a8e8ca",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105703139": {
+      "digest": "eb347aa5f41dd12e902a6bcc79b8323eb11efef2c8a2b7a0870b9244fa15c9b4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105733535": {
+      "digest": "3d3e7603d12d43d8ae372ce3a878f07f7ed150e52552fc09751dc5e0616d55bd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105736142": {
+      "digest": "214c2c013a9de68ec8edf0922ba3a5a57356195ef8fa5588bf9afda8ca57e4c8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105740675": {
+      "digest": "23ce775e0e0dd8b6c530a9fe85d159def649b7cbbcb6198dc45791c56f22656c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105755118": {
+      "digest": "7432faf2e3a522d2712e263f0df92fbc20bd58753b4a688cbec84b049ebe074b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105760024": {
+      "digest": "2d8cd2af9160c8be62666e12a18613d50fef56d9817adabe982a87e981844f3d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105768313": {
+      "digest": "84acd723dc2f2fe2d0b93ed72f422b6714a0fcad0b720b52af00da5b0b158137",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105985430": {
+      "digest": "1647f657c2187a7202c9dc5348b35861a9dc97b7af481d324d2084e8f51d4de7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105986048": {
+      "digest": "e84ff43fbd89b213bfbbc0983e1029ca14eca8da810d343f8252a58ef2f33237",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105993752": {
+      "digest": "f7779e49373a7f8451cde53fba141393ae929158ea70f61ce626d9bf928e3b3f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105998210": {
+      "digest": "c22594e9d2694c73d5d3a44f2295ec6fa6e429f897ee9595224a62bc84250861",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7105998863": {
+      "digest": "96550c4f4831fcbb9c3626c27eb7207fa978f619650aaf49ece57f2c3b60b6a1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106001618": {
+      "digest": "dd5665d1f363dc3c2ab0e7bed3cbddbc159ff3e24f3305289498c2c19a8ea250",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106026186": {
+      "digest": "d50966611232aab7dd4b2fefeb26ea89b32f245da93d0a4cbcaa1b13f1ea3f1b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106041784": {
+      "digest": "67ecad078be21a578957b19238acd6694e2d060626a5bca8494016e5c1431d00",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106078068": {
+      "digest": "7a3e063fa79df87cfa2bb2954f89641122d69b2fd1df7087f6ae7e212a8edd3a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106139535": {
+      "digest": "e4531d4595c8e998c4c645fa674bcebf25a215046c7fc45ea13e8951134c75ff",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106242851": {
+      "digest": "50ff2fcd20f361163eb55157210716760b926aef72156e5443af59c8dbeae91c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106255832": {
+      "digest": "2a68e76ef02fa8a34e17282af009d4e137697f4d542cc0dd0d48cddaa7a40157",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106257101": {
+      "digest": "c085941285fe62ec10810e0ae2bca31065bd3cb67123cedbf400c461468764c9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106257869": {
+      "digest": "7843756c7b90009e2d256ca1e19b67063d8600e2356d7263ed8c93786edc20e3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106296691": {
+      "digest": "22522fb8058f15b67a4e82f3784a1a7deb4741723d2bc84b2e9961dde10a537b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106308067": {
+      "digest": "c6b47acf578dd14c33bcaa56c68d1c1bae46535af7bd4ac39a89db19945400e3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106325867": {
+      "digest": "aaf4c8c0b71913b70083dcb6a58585f01d4f83e8f5c49820425ce56ce6ba985a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106331426": {
+      "digest": "289a8878807aa7e321ef0c52fc70d6d48cc05461ffe746836bee2edc7ec6f216",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106336339": {
+      "digest": "0e8b67e141f5e80a3e410a0e73b1666f7fe6a7bdb9c5847e4e5cb2d9bf0dcb23",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106342259": {
+      "digest": "dfe7cfb648e5eb211c9e16994fe6f7ac4b8d213f344e166b7a075ca17adb97f3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106344777": {
+      "digest": "aaa660a22c03f5374831b74364ccd3c1ed08b71013ae56d13ccccdbc62b84a0d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7106388974": {
+      "digest": "bcda15a14306e33364d832b9148b835d59c65e07fee8518cfef8b264fae318b2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7108479023": {
+      "digest": "c2408398fcac8e8895a6a57a807b7aee1af87e1862667d331c7beb201a85a4ea",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7110697076": {
+      "digest": "0c8bb798dc7a4d772b7079e000fca05804b05e59d4ae8b45deb777085de23760",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7110963029": {
+      "digest": "20c1017e188f417d1e42431d315b1bf9047884102a1e188fb765f0637a123971",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7111196800": {
+      "digest": "8f255a331a25cc74b847e6b9418678ffabe6174a801e1f86766bdfe8e5047058",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7111436539": {
+      "digest": "7327b612ce8fc3b4e4ba23473c95aedee6c0bbef6510bba135cb9bcd51f9f754",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7113225674": {
+      "digest": "0507c628ca872e078f96f02126895b5a72d05f8755ca54060c84b13ae5577dbf",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7116046528": {
+      "digest": "034f91fc478de03cdc889fe2e635f9888bf5ac6099296497d66f52711aa2a7ef",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7116059315": {
+      "digest": "a235a059a799779cfe4debd885ecd849015b87c2897515630e0072f8509da0fe",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7118097130": {
+      "digest": "11c438098a14a7f9d42d80b21dd7d5f2ea6ed7bd6c6be6b2a03fac7ec8881f96",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7118169632": {
+      "digest": "bd8566976b97cad5a939e798abf6a011fc554362a380b1428fdb1bac5429781c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7118567860": {
+      "digest": "303f5df87c1437286d308f44376509ce89796d91a07935d96004602109816603",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7119062828": {
+      "digest": "8bc4b63b5dfcc59f0cd3a898e87d67ee381f8997b9df3fcee3ed1f6077bd8d72",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7119486664": {
+      "digest": "a21dcefb19b38a15d91e2259c0962f06ad50240c6914223e4391a67d6d1d60d6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7119675999": {
+      "digest": "55f24f7fe99917750a519e0181dba998aa493d00e894e71b4df79b433e7efb45",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7120096138": {
+      "digest": "993e6a71bb00b052916d80be833a1c0ad0d91d90c06be788d59696af06d4f6b6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7124246737": {
+      "digest": "4b8dabf32fed0a505f7c02a4bc2a9649c0c5324e66b143f38c082790401fbfe8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7124465552": {
+      "digest": "cb2bcb74dd8e7ea0775649b2913d14d467600ced1a988556b1c2d74737d81c06",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7124694666": {
+      "digest": "05746458a8d8b6f178652a5f810cae6adf31ebc300c45d0d68e859697bbce0d3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7124744440": {
+      "digest": "ad805fd8ba232f5e449cc3276ce5405ac2725b5416b359c5cebfd6198e1c8c82",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7124884362": {
+      "digest": "c64919809b88278e6efa935803dc9a14d9b81059f201b33695ae9715258ad70d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7124955592": {
+      "digest": "27541a3c431f2a6d100a2f654dbee912ba16339b634287337121f3118b64981d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7124982337": {
+      "digest": "2b187080fe27baa4c8992e80dbdda64701aadeb8db78d1e91bbf6557afa814b4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7125001053": {
+      "digest": "e62e06a385a50cf5f0f0446d672171861a0fec5fda0ff22d2b079bf6ad70f45e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7125005188": {
+      "digest": "f95e9fc34ef460639afafc5332d5b38badba5a144d6fb42d0121f94af43a710b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7125110078": {
+      "digest": "24daf4eb8e99a3ef714f0b20469889fb23349ea18094d4b66e4a0c9e510aa7a3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7125261763": {
+      "digest": "f564f554940019f369d9ca04a5ed591841862205224dad0cf3f8f0d5de6af89a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7125531724": {
+      "digest": "40d451dbfce911c53a2432ff4b6ebf5898f3d5fbe4f61f1a03bee39363084b70",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7125692670": {
+      "digest": "a692c486b34198d3ee896c4c44cbe5cf981bc89d2507dcaf3d53f8524997b227",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7125788199": {
+      "digest": "5a5e79c3371040cbbca40855e34f6a200b8d40bfc9abde038afdc3e7bc7ecb64",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7126177832": {
+      "digest": "853cee66f4556acbd386cac34e82a779644ea03c106e6aabd390909948cdd1c0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7126234440": {
+      "digest": "4d856c6e5469abfb060f7ec0d7b6b1b9ed7e8b949c9259f37be4f5ccc259537b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127077930": {
+      "digest": "99b668bb6f859630a4c04812f4a2b0013566393a45dbbcec1988fae685ad732e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127085556": {
+      "digest": "b9ad62f1f4c2ab9a5e239993243d19b485cfe5bb84637cb6f1c6b7f67106cff7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127099167": {
+      "digest": "b8b6f03411da0f4d4fb025b5f6f349d04885ab41e844f3f89f987b8de9005629",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127108460": {
+      "digest": "5eb5c2617bed1643c8dea632eeed1ad34c214836ba9d0ae06e7101aa63da98d6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127112236": {
+      "digest": "8452bee0042f68188d8eb184ebf8aeeca1894c07219c87890eb25aaec899711d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127112576": {
+      "digest": "4da2fd99551d0be369387322f68ff0fa3c0948fc159c82ab88a1d27203851e90",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127115710": {
+      "digest": "1c9c23a9bcb796dc9d97172b5100aedcdea6b85ad2355d89af5b94b9139757f3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127138906": {
+      "digest": "c00cf7dd580f505aabee217813155186d1172ed046ae842dd258ab60ddf745b4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127139269": {
+      "digest": "ef1da38cc6b29acac9c6507294c4eae23d7f7414f9833ddcc692939903dc47c6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127143378": {
+      "digest": "bd8041325d2dd19124a98e1ecebf2202b5264b9c31cf2724f717809379b6691d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127147647": {
+      "digest": "7d9dd8d6a087cb2add5d25cdb5e671ee2811ae1e276e25b0a17c671cdaa53a9a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127155876": {
+      "digest": "7b822b481d30d7e099dd0734a7f2b02007352c0c333887736a30c9e927e9ac9c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127175506": {
+      "digest": "fe5e9dc3554518ea690ebba5ef1aab126ebda9bd9bcbd31fe028431e947b99fb",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127185159": {
+      "digest": "50501b39be4ab3b06766e026849a10e59b762562f49322be467d69fa72fb403d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127186057": {
+      "digest": "b42af92e8d494fc83f68f696d6b03faba8011179fac44f2661fbf64c1ec42e15",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7127197435": {
+      "digest": "5f68767e9c4c5db5125e7365aef78727610e105869c3163146cb59c57ce31733",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7128391824": {
+      "digest": "3c3a0c19662352ddc35df2f43b700d4c7bb8d21b76ed9666ec41aaa55f848647",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7128529660": {
+      "digest": "e0ccb76ab268209c7fa3e4570ec7b22423ea8e9d77bec4d02ca0836a1c87c5e0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7128546328": {
+      "digest": "a1720a61f205bfc1a43e0c5009f202d96aa773339edece8bb99fed639fa2f256",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7128616220": {
+      "digest": "0b9c8f2793c2311c1e2dd5156093d09d52ea3e97bb557f90ca7993feed2a6f51",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7128618705": {
+      "digest": "4c24e89991e197c90de52b27f49ab225c2b38995293b395b5aa190c9a3efcccf",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7128693660": {
+      "digest": "00649bbc2fe933b4c505d00777578c072108f0dcf013aedaaa1071ce52fac8ca",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7128995492": {
+      "digest": "11f78c572bc478420b032b1a39c73292437e10dce53304324c51660474a23e1f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7129052282": {
+      "digest": "a60104142ef27bffdfc94690bb90ebe1607dae3e6732cacc45b19633b4048ba0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7129069976": {
+      "digest": "2e69c06616b0615b3a39414b42daed205b8e33329956d96dd40a998684d2d119",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7129074727": {
+      "digest": "3c4deb1675f4c54115452d0dada0c5bdb869b465902a29d0f69196d9d6541a80",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7129685410": {
+      "digest": "836ca293b53c42cc3cfed0f224d3f4e763e2e45ba45151f974501251e2c1cad5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130552718": {
+      "digest": "f9d3a72084279fa515decec266ac89f78e4066e9225ef81c01f08f2cf7002f34",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130554536": {
+      "digest": "6990528fb568ae545cd2a81827b087ed67257afe4c7f5d5108a80c99b6d07c64",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130558180": {
+      "digest": "4a1acb782da24efff97f808d1e506e761b63e3243b7a97ff891f788415292fbf",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130574699": {
+      "digest": "c250ba224fb49ce3d716d8e02d1b768832e5fb14c9621c6d9fc790a048765074",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130579269": {
+      "digest": "e51ef98b40b77bbcec59fc262ed6fab2fae362b981c5e00b1189aee1ae9f9143",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130587181": {
+      "digest": "f8e6f3b6f8fb1d0199273762938fb57f78022c9c1f6c4f0f071f48dae7213897",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130589275": {
+      "digest": "e02a1588355ad783c4a61aae8297256dd31b491d8ca06bdd2746c6d826dd8f2a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130603801": {
+      "digest": "3d34e419ec31bf7ea0d8e134aef72c3cce1c02b46105d59cd325a80917fe60af",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130615652": {
+      "digest": "4403f96f0293b0933989c32fbef0178a4ec28e8915abe24045d1d1e7303e3627",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130675202": {
+      "digest": "cf6b63d4d88ec2255783401ad13ca58ecaee4de55aaa9730e8214a2cf2bca9ed",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130680901": {
+      "digest": "9c06aa932c06e50ef3caaa85167c721d0e41ebb7f13c1958bc9d5f04a532cac9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130687365": {
+      "digest": "401a9491c43c1851639fd59ae6977464d147c630ef00fb049f3f71573e1af2aa",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130698008": {
+      "digest": "cb7d0ab44d295571e1106e0b418ef860b6731244214f1b3d0820b1ef5fd6030d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130704145": {
+      "digest": "787bb3cebcbd1390112ab79e2cc4b4c99c1d326def887e258bcfd35ec4ffc3c5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130705729": {
+      "digest": "827c076b38e805e626ed35c87aaca0cc48d576ea09d6e44f0909976617f1cfcc",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130723301": {
+      "digest": "d9aec0912e45cbd523c824908b0e0052f77d06eddc508c27027a915c3bb8f65e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130728974": {
+      "digest": "54009735290485913b82d8467de49ac2e9841d9312e087f920275f27fe034f95",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130729527": {
+      "digest": "6a42de34d9e576bea81fd9da67b27aeb586a1492929758017c297c0be6ad35ac",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130733244": {
+      "digest": "6ee1af7a7c0a26226fd6983d3398769ca38a08a278e3ee4f40abdef7834f51e7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7130753397": {
+      "digest": "177f6fc7919dbd4de3dc85186a3f0a5651ad3e3e96472cf5aca91722822e44d4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131244346": {
+      "digest": "be212800d732f38d94e9f7b83344fa53ac1b07f627e4f6d641b0deb2222f2f45",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131377276": {
+      "digest": "c4ef8f01960fdd96cd61610318937f0b1bd75b392d3ff7357902225e1767fd0f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131438522": {
+      "digest": "97ca15249a513b44b785300d097515cb1cd0b639a2b75afc740c85b1a0b9e495",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131809657": {
+      "digest": "09149002804f98a09e09e0580d00c7566f90571b93bc1ddefda94f9e9676c0ab",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131812221": {
+      "digest": "8f38a9fa435368e26fcf7349d9e4299a830b6c338720eabe58b8f23ddb3741bb",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131813294": {
+      "digest": "5d94387b676a5f552c36d0e8ea92aa36cdd080132fe3623931712ccb4db7defa",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131814810": {
+      "digest": "877667e2d1821fa2726c907ec4dd5c847c8bfc8a2762c0cfe3d8e82b7632a34b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131816697": {
+      "digest": "1e98c872faa0e3a715646cedb4e66e2b31f2ed5d892b7f684b1cd638e4d3ffd7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131818303": {
+      "digest": "a75293993bcfb9845b2ddc6e3b424d5abb7244660541e25729f9ea2f3180740a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131818584": {
+      "digest": "f98d3954166bd24e116c18c932a7d9e02219aa1bae838281d9ad28e020a09633",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131818790": {
+      "digest": "b870919a3f3d65a7ea27bde077027626f2facfc7b194ac94ec2b9dbffda410e1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131819711": {
+      "digest": "329df3c3c6dc459ca7d6a6ea8655ccf6c8926f399da31c08bfa04cb70f9797e1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131819746": {
+      "digest": "7f6b183161a7bf3b502e53f8d13f997cbe1450bcd5a13c29f773592bd7532338",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131820919": {
+      "digest": "c5063ef5a1267bcafe91ed73439d1f611529bdc9dd53abb5756f1882f3f17d97",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131821347": {
+      "digest": "d93faa2d00abf92a9dbbd4020817d997f0c983a07fcf42d902f794132049c240",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131829115": {
+      "digest": "24bfb8f26bcb0ff9c116037330a6112e21995b58fe1117633c4213c649cd4d4e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131830047": {
+      "digest": "503712c8b1f86bb89ab85fc75cd79bc6953ce86cfd4629a80b6861fa252b157b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131830120": {
+      "digest": "e3a7e3ccef26427b81fb5240b356eab0ee88e7445a3e0764560afb189a5d85a9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131833204": {
+      "digest": "961feec981516fe7b3d5d54a5fc1f6b9983f91fa8ff0f2e98cb0e1cf906301a7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131833763": {
+      "digest": "eb1413ff6275b54c67f1edfb829d3691581893a1b5faf9ec87dcc96628d1c978",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131833947": {
+      "digest": "3d9c683e3501b2c9e015929518f35b4a1228defc8951c685d07733bd2915f175",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131835224": {
+      "digest": "a25a81e6b852a99e3087b47f8299d50145f882a63a63ad8f28c09c27bf402e8a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131837874": {
+      "digest": "8f8479bd436c90ac4e74a45f857636ff025c3ee95da5264b45b701483ae527b9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131840499": {
+      "digest": "fda00deb433eafabe931c5e6053a7d919a35d17f93b2e50184e336875ad33a19",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131840748": {
+      "digest": "fae9b3b812e74ac384ae1b535bb2585ec6ba8bd448c4afdb11cdea70c85683b3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131840964": {
+      "digest": "834edbd40d34ddb86f771b761ebf98a1481cc3cbf4a2e7bd93e505273191d7bf",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131845307": {
+      "digest": "f92aa84f66db1bb55391d5b4bd86b1583c2485dc89028cfffb102018ac1fb21d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131847534": {
+      "digest": "6b71462949e9f2fd587b38085c52f3e32f3c20a16b507825929b235c007441a1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131847624": {
+      "digest": "874aa8b1c2fbd2fc3f0795fe3ab9cce3d5ab155faaabc704d9158d8556ca30c4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131849282": {
+      "digest": "4fe774f207ed40208d24919ad0f2634aae30a09db82b862308087a57d2467b3a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131850547": {
+      "digest": "24f98f0a80b39fe3d62b25f0408cd3db3dc20eca23958428d41a9fb8c37a04d4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131851918": {
+      "digest": "c367ca0d5fa8edb56abd114e2c87dc67855964d2f1b551803c07935e6c9c8ef5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131855060": {
+      "digest": "15b4017b1cde61f9166836268949cfcc2270c6e32d448b09edfe8f881ab857ba",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131855540": {
+      "digest": "56b18cb079aead32679e920e18b8eb7e2d47aa2f34c6da9b1fe0597ea7940435",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131855943": {
+      "digest": "34857d71dda37ab0c0b8f9e9192df1f52359b7a05cce0055f746d93a1b655bf2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131857656": {
+      "digest": "a393fcf6492376930fc025fe3e61ab3aed76d443dceba069437669f9fe526236",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131857906": {
+      "digest": "17cc0357bf456063e2ef7992679c23ac3a9727e955b74001f4537759e095772f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131859131": {
+      "digest": "3c52d3a2b18df35f1127eb505767e229ad68380b77225a10eb05b4a1d1b0e27e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131862730": {
+      "digest": "17d783877dd823265b489536b0beedf1b3ef43c8caf77c6b40103ae587f1b4ea",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131862754": {
+      "digest": "c09dd8610192da9318b3bff36df98263773eae03f658e3507df6f893709eca76",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131865182": {
+      "digest": "433c19260b29ed88648bb1e451c4ab5bdbffdfde254b5c46b9526b5200503079",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131865538": {
+      "digest": "03eb402cc2448a8a3872b2e3d711a8e312accbfe2d4f227dcb1e74a8280f70af",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131869188": {
+      "digest": "426bea6eff1e3dfa6b14f86c1cdde53106bb28d3485cd8146dc9ac6d0adb8dac",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131871180": {
+      "digest": "8485e46bd0e5f0b5e4e722d879085f9951a457983cc17f8bd36c025aa43058d9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131873890": {
+      "digest": "b540c69f1e3c81b01d12cf9648a4f99672f535de28b9261a8e380f0f0735868b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131875212": {
+      "digest": "d8acb80400e94a7ca8d34f92f231220c38d2400edb6a7f7b51b78d2b20adcb9b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131875275": {
+      "digest": "06f4c55a59f789159f0b3899b6fb28fe8f136e1fedb5230ccaff2c6909d2d4a8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131881480": {
+      "digest": "9d8cd0b4fc05650ada0d4a329bff75f1af07073b9e8c1624b7c0a72064627b65",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131882084": {
+      "digest": "9082d02d7855f3da4f97feeab55caa7e21fca060513933474c6791debfa0acb3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131883407": {
+      "digest": "3ccbfdf13d2d898f80267e0844e1fca8cbb2789cdb0fa567431f190b166facbd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131887966": {
+      "digest": "7ed307eeee5e882b6f64d3de3994daa755c36a36b20c37e2d96b0ff5ee926430",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131888428": {
+      "digest": "e7fac7caa464cd9d1af6c6b47bc60e9dd0860142ce45b0fd958b9cc7ae6d2c5b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131888871": {
+      "digest": "b42018db4afdf19feba36938cf4ef8b83876df4a97c5837b1e177dd22ba58c68",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131895694": {
+      "digest": "f91ea0221143bd84c6998ae60912c6cf3008f3040199c8d9fb907bd91057e6a4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131901207": {
+      "digest": "0fdef2e0648e4e639d4b4cd9301ad1d39197bd315e12ec432a726ac4a3790069",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131902730": {
+      "digest": "19ee982e2cc51f17945d013c02a4a7966d05f67b0ee31524fb02d49b0f408cb2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131907026": {
+      "digest": "00fc6b5129d2402927ee7b60d14974333ce0191a065d66de6f4de0dbd7996678",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7131908691": {
+      "digest": "60ed0c57475a8d764bb1aa9faf2a2d95fad9d01889e11370cf8afe537561ecdc",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132158649": {
+      "digest": "bd70fa44649a454392a9297e0c03833ca0b2b3dc7fb27416534dde534b5ddbe7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132817759": {
+      "digest": "b1ce5516785766b841bb0815fdf61393990768b8396909cacb1e7b04c9ffa966",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132819941": {
+      "digest": "f7ddfcb963f7713eee9ca30041c8f42f8f5593d10a48fd5e0c149530c0906aa1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132820953": {
+      "digest": "cbac310e2ed29bd4e51d40105b236239b0dbb42f0db9502e97038fcbbff9c4aa",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132821537": {
+      "digest": "85ac071f15f676223a1eb69b7361a7fa2ce2ffcad26852f7ada248fc5624c9b1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132822010": {
+      "digest": "6888234fe50be836195ea2efc34009167258041357eab7b3a8e21736eaaab1db",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132823983": {
+      "digest": "2c9f2dc137d749573355472b3edf2d98fcd69c46d5750db6b27cfa94e39c6b27",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132827625": {
+      "digest": "27467df11d45d8672fe7bdf39b6559145715954650a1c2293ea287da7883aceb",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132828213": {
+      "digest": "7b30f1d28e041979a9c66259793b9309ea34836f3d4643e59a369453b1cd8d21",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132829209": {
+      "digest": "cf9a821c404c7931264a0347f58c66e39638966d2bf44b11148ef9c5a5702f15",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132831314": {
+      "digest": "75e05efe44a1e0d28ab57cce3bfa2e39fc14656d2b3f8648195703054ec5e0e3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132833890": {
+      "digest": "30407938f3cd1be9344dd033567176b4c77a4a4a24f63a335b7ba860bac603bd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132836579": {
+      "digest": "588ca0db4cd548f5f633c9de70fce4cd771f9018b026d950e751b0ccfd093a3f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132838916": {
+      "digest": "d1bd2d81595cbf98fc29fcdb7c8b92bdc934dd2854c22681192a69240f12161d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132841018": {
+      "digest": "f9861c04ac57a1122029804e8eecca4ac989df306c61e24ad30dbfe065ecb684",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132841632": {
+      "digest": "4580c3a73f70e1acd0edad77be76e96a9a701f5695680cf424996b3a23dcab60",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132842744": {
+      "digest": "5d05dd34d806ed0bb04a413b7df1a77478a569193ce067b0e2c7e641ba5e70ee",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132842936": {
+      "digest": "99233c95edbbffad740d4a1f6b4133485f1163881868af846d67e023a6cc768b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132844238": {
+      "digest": "f0dabfe568c1ec9f17240f900103ded10ed4c3b8d7085846cde673adcc2e94da",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132845276": {
+      "digest": "b9557b07f15b295d683cd9e5387aa9d7749012b4fdb2d4fadf564c3851068e11",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132845544": {
+      "digest": "3139122205b84052bc2f0c452e16e4fa6e624e0e70af38ac9dcc84161af323d8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132849133": {
+      "digest": "5ef341194dc99f1e895b53260c9f4d61bd301c9422676fc096f7ffebc58e287a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132851883": {
+      "digest": "ad955c28ab70c78141247d91104e04f9d700c1d498e2ef9636e815d59d3b6472",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132852911": {
+      "digest": "7b153220bf8b06459ccd626a91caf289f89e5b802d15d7cdc30ea6d849cb8628",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132856329": {
+      "digest": "15c95ee7aacac0c2f34fbfc8fe668dceb46307a2c34b9c6e355af3efe3164dec",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7132858301": {
+      "digest": "faf2421158d9c20de03de09ef6cef77bfae2d3960770c2f22736fe3f3210a761",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133210524": {
+      "digest": "7cddfce7f3ef99de47d43e438113fa9ace69b33b42ef18307a246ada5a7016dc",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133212874": {
+      "digest": "937d0320d085b3bf9351f0747bb0b0229436651c10dbdc4f37831da89b12044c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133221535": {
+      "digest": "ee145ae3bf8f98a05d8fce0d1ab87555440919291313ab11abe566b78635d007",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133295081": {
+      "digest": "ce2d399d5af5ce8d31a9caeae38c649e04fda365f0467c74650c532540dfcb0b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133296341": {
+      "digest": "c4cb09873b99ab4a686c19f53f683e6c16358a9feb09a7875d8c1ee4cf1e108e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133297328": {
+      "digest": "8f8286630c52162211f61a0333407f00b7586983565dd244de6a2d3d9673983e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133297976": {
+      "digest": "02735160facdcf7d7f566f805749eb77ec65e686796a0d9e98fabba4ff371e88",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133300830": {
+      "digest": "0aec16c07271e8cdce6fea253f096e2087755fcce84bc8b36b609d821c57b247",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133304242": {
+      "digest": "16d698c680f369b202b17f1cfeb69b967ba211b96d1925f4719eef4b90738f3a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133304917": {
+      "digest": "d7ea7d74ea942fe478665c7d77cca987976891980444b843309774a4ce83a840",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133306297": {
+      "digest": "cfb8d36a705eeda08abac57b5b3a0d819ab2928a289dd0665339d5901b221f24",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133306786": {
+      "digest": "a92986ab259938fbcc1b09d4864603e456bbae8d16bb2e660160b53e9908beb5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133307675": {
+      "digest": "b4be74fc82893e5e55a08d71d43c254c4a3dce6ebbecb7706892127b33c0a417",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133308854": {
+      "digest": "5fd1def67ac1c684c8a440eb74450908d177ab9b55ce07e98ab98543d960a692",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133309576": {
+      "digest": "eac93e639c4770ebac7d4b49e1b84c8a078e914ffec869c40d87e93cacd1d2d0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133310932": {
+      "digest": "42a3d3944c67ef3bf7df1b8cdbf28b8b987eb207996c988d58d6507e3c828bb1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133311052": {
+      "digest": "293edc7b5176076cb8358f1d97f60b8c74105dfa4237de775a9de1e5f93493e0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133313371": {
+      "digest": "849e9849312030d7b60dab25b444c9f504fe6b06fbec0732005229a0596e08b2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133314487": {
+      "digest": "6acc880bf9cba033562b7792a753c83e2407d82ad372da06d7f029ef327e5357",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133314821": {
+      "digest": "c62222fd95822a78c4adb103fa1f69b505fc8ef55f26ee8ca05b1f9f6077438a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133316110": {
+      "digest": "2e425c52cec207f7d417b7933afca354ecc2a2b9037b22a1d6ea5088e0ed81fd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133317550": {
+      "digest": "59eadb05a3c1bb8ff6e674a95e115c24a9bb29e220a509a5ace9facff1799c6a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133318669": {
+      "digest": "f158493dd049e7012e93c9875083875c4f19bf77edc7e85d4f941b595a8e2b2c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133319051": {
+      "digest": "2bca046717e8d4fdbc09a19bd236e6770817b954351b2c7774ac434e48afba76",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133319222": {
+      "digest": "3e2c0df8213fc8f5001d45ac124727a3946b72d5dad59ce1943744677ff295b8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133321029": {
+      "digest": "3e096612bb92348f059015c8e124fdd33788c49a9a96ebfd3b9000703cfb6e66",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133322148": {
+      "digest": "ee655bdc19ea69dc99c76f0d9f9c4ac53f2cbfcbcb6ea7b3e6879523caed5ac7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133322526": {
+      "digest": "3fb743f2601a2e220f45cdd1f5746164c300c9ff2df9c52ddedbd31bcbacf34e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133325288": {
+      "digest": "ba7efb4fa15d8b274fca764f9c3d9ba21dea92d4e3df7bcc0e5988600b790eaa",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133326688": {
+      "digest": "73c2cd96ba3cc078dc5f828e91e5103f836b99b8e4db7f17aaedf2a9432d7144",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133333494": {
+      "digest": "958885af0034257578f7c1144ddfabb941bd01804b42f0bf1c1519d8cd184499",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133334328": {
+      "digest": "01321add20745e0c6772ee15f5499f83c6baa3f076971ab9751f96c53ad8e629",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133334816": {
+      "digest": "2886b3aba1a55908f85572e714abab9cdc81b22e17cd61561acd808b3dc4808b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133336022": {
+      "digest": "98e585472030390d9e4a6255405b4498763a2bc2a86dda9514d065ccdae29e6c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133337036": {
+      "digest": "1ab97a6dd9a1a4dc978993cb87e7842bd79809da7b33a25a38bcc4a98e132226",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133337769": {
+      "digest": "4d621ea37bbb4eb42652ae66c9b639b4e2b2e0873523fed74e9e2bd338a27b49",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133339177": {
+      "digest": "8de7ce589a6130b033b0d4cf74df7f6c797051b88488358c1560ca99298ce292",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133339692": {
+      "digest": "bf78af0720e320e80b88d4ab7fa54982c80240461ca22c9cc95599741c2772ea",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133341015": {
+      "digest": "b74b943c71ba653e46e52bec25739f833624c24542632ce8940794ac53aa5bc5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133341086": {
+      "digest": "8a49d7f23dee520b2687450f3d84324740dd679c2cc29c54c09c409bd046186b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133341448": {
+      "digest": "6c4d57c36f38268bd3b854347b0067337002b2261bd8b7487a048263d626b994",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133341771": {
+      "digest": "9993fb283eabf539ea6dd867b030c189da3846c5d3690166ca749d0c30a72b46",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133341929": {
+      "digest": "26c08330c18ef42cefe6eaf7e7bb2e025691c86cbf36e0b7bc10150ad51b8cd6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133342402": {
+      "digest": "8aa7727f40a38e2405bbe0c22bcb01355140bcc2aac88a14f8071d5fdc1509a5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133343560": {
+      "digest": "68e0e9347bc3c91e852594ba349d149e2e4919f989c7051d346f23214d4c9b65",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133346314": {
+      "digest": "81e7f92e7db92c05cae824366a3c6bf4105ab514fe07d05765251f02d971b70e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133348222": {
+      "digest": "7739fa4f9b813819fc8114dc65d269aa05c2d9692fc479e61cfabb8316e825fa",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133348627": {
+      "digest": "e2e46304bb184eec3e9d6893bb4eea92c85af45dba43770f877aeafbcc6b9ce3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133349841": {
+      "digest": "4e2dc909f8392eff0c07c987b52cd1ed164bf57bdc0cbed4fcaf4d4cb96227c2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133355475": {
+      "digest": "d42e2c805d44a72febfeaba28015a7c0f5dfcdb9f732907232977870e0df6166",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133356108": {
+      "digest": "693ccbae281bd5aed6b39498453cd189c58b5e1698dcec75be1959c11251c0ea",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133357951": {
+      "digest": "33bd8c53e350949831d09ce584e274a70b6c1934a75d10b472df0712103c1e37",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133358518": {
+      "digest": "7d02ed8ee6087acbc28608cce775e297ce4cce7b9f399e805bb29d763192dab6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133358641": {
+      "digest": "b8114c10308f12959a219836d5beaf46b1ab63151c390b80900308ab96a219b4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133359004": {
+      "digest": "94f149dabdc17f0f8be6eefbcac84729760ade750f7b97e64dacdbd6d5c721af",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133359335": {
+      "digest": "e417987d6210253590431dd92dc8ccfa9a36e31f4b2f5446ddf8dca57e996047",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133363045": {
+      "digest": "0a7e800b44985a3328a1c92dafbf80d3ea48611be5870f14f7c9a4a543dcfd4a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133363117": {
+      "digest": "e3c1eff5d68f59f521963ed3ccab12efdb7ea6c9a655a90e9b750bbbf7209c05",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133363352": {
+      "digest": "3e14226ec3a464f4716b6208608a8cab7a235a1dffd9e095a77f1994ea1687c3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133482983": {
+      "digest": "3ab7de147cf55c4bc6a2a8e51afeb9c0308e9e4a66250ece01c08e7ea68b3bee",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133485957": {
+      "digest": "eb7656bee9be878c5aab50c146e3f96e9e001929846c9ac7eb3233b460fa75a1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133492928": {
+      "digest": "aa97fdc19fcad3996dcdb4f549a1b7ceddeb00173c43059b745c757edb20ed04",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133494065": {
+      "digest": "3593f84401912e44d057144622ff04317d7659b0cc7bda3226a3b073981ceaec",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133499484": {
+      "digest": "cdb49b44b7f285d45e08fa55a732f7f03c297c41fbdf3561d6c09e25eb3ea2f8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133501059": {
+      "digest": "e97a8692caec93438b1a35f45a5144362ec2bc006e772118665878ba3f2dd94c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133501675": {
+      "digest": "781acf81b0ce0e97ea5440111f588d0a3ecd4ed5abe6a9db471425f92855112e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133505384": {
+      "digest": "2aaae75fef2abde8a10984356658edcc9fefe6c6e3520025bc6ca01ee6386c75",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133509722": {
+      "digest": "1cd4f543554576d0f0befac39f8cb4d014cf46c9f8bc606333221ed28bd91011",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133511282": {
+      "digest": "4e8f067795c14800ba2877493c7f4420f607796569fe7aa1417acc10360403ce",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133515051": {
+      "digest": "3b48af47a68e58d19d597648507ffb67fce4d7081ce60bc06da7d6dc6ad038b1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133516232": {
+      "digest": "20be793841308d1a0ab61dea3f17a31d1b800179e50b5b8b83716e53822feafd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133518490": {
+      "digest": "67516ddfb3c8ac87814f7985de2b2063088d2edcf962739c6e97ee094e77795b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133519495": {
+      "digest": "4af71038d0b24fa0da96ce393ba04a17cf7ab6cd8063bf3b66651de4d821bfc3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133521259": {
+      "digest": "a90c0cd028e96e8af9b1dffeba99b2f01116691998670071885ecbb60e3c4f5e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133523399": {
+      "digest": "8da568f88a3106c6a03988145b6124b81e6495b41180e64aa5e2e910537fece2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133525185": {
+      "digest": "38a1f2f69f14493ed553df10531e796b2345902ed39bbddfe1c3df5d6dfdecd9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133530107": {
+      "digest": "972367798dc8e8823785f819a702630035ec0f70655e3133e23419d58761746e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133532968": {
+      "digest": "04cd2ce81afdcf0a309d468689c803b6c529ded6412c77095a758a8aba5a5bf7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133536528": {
+      "digest": "b7d2c54efdc25dd75004ba0260b5a64cf4f929cb03ad23403f532c9d77305b2e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133537076": {
+      "digest": "b1d0d6279977a4f011470478e36c4da280867e8c098146acd18686276976d44b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133539407": {
+      "digest": "b2dd0702615a24a4591cc5790a2098f400c91b0ad2d8d279774ec8a0a2809630",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133540145": {
+      "digest": "9b31769f5712393470e580b944bc2b58c9a929d9f74ac159a3fbc6bc3940eeb2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133543187": {
+      "digest": "c0c38f1baebb6aeaff10d5fa134a0d0f4db46a8daf4cdc901bba441a756fd707",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133546633": {
+      "digest": "705c344690ea2cad5b7cfb90a4a1b2447b56487a9a8d1782ee1b5e46669db6c6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133550631": {
+      "digest": "fdc42ac695eefbe9ea9de912a0b5fc837e888b7590198194d017a0c0fa18c2b2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133550960": {
+      "digest": "fcf3e4184c38d202b25069330cca0728a493eaa468128ffc5244209df62b438a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133552135": {
+      "digest": "f7124ebda7fd22fa679246d9132d4c84fbc4339cf95accdac1263ae67efc384e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133556987": {
+      "digest": "994c4349740c35a1f72e15966c85f7b812bc40e27e2d2deaacde0770d7c7eb40",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133557493": {
+      "digest": "c895596c0d32b292be6135fb1574eb3409dc0ea61371d20546a0f15bb3d62cef",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133557781": {
+      "digest": "c89c3dbf822800a68e185398da854a3b720e3f49d39950e9a35c298acc0fede3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133557782": {
+      "digest": "0aa962512281d8848e8ca3d3c693fd5630dc68b2706cd141c704328261c37289",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133559064": {
+      "digest": "d4677a0701d3a9010e8830a0563d06d028565f7ed0287c920e1cbc2034a0356a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133559537": {
+      "digest": "3df01171f0bca45697adb3192ac1f13121f82c3a3e25c9b6e88010b172d002ac",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133564365": {
+      "digest": "1bbe9098e92d274046d6d6991e530ae41700ad1362a86bf8d85459ee9582dec8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133568063": {
+      "digest": "1afdad8a25bf404395762356b61c2e84b05375d20d8b6022d57240f3728f0f30",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133568615": {
+      "digest": "3309ced0f7ceba4ad28c020aa31f25d697a2ada00a8df505c4d8cc2226bc917e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133569308": {
+      "digest": "b0c4867b2ca4610af1bf5db0922336edbb16f31a8da35329eac6768b3cb79d38",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133624165": {
+      "digest": "b0d793bd627cc9ab8eb0a912e34c01a87cae242c269a7437b37f32e9d56019e7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133641491": {
+      "digest": "6bb36522b6efde98ec3402b948165d0e38a73be32da4abf0691435d675bef1aa",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133650559": {
+      "digest": "fec98101b06bcdcd37347a31215f6f66063da8c8c6bc8f6b05c0fb1990be7fab",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133662037": {
+      "digest": "44677ff71ba8b16cf7557970abdee01e347a3c2beae0c3598a259ca3cd9a1f12",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133688287": {
+      "digest": "c6aaabf6e7e8c9848b1c239399b9f4e230fc78d9623ec7c66836e1b817c50265",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133689240": {
+      "digest": "4f5abadcd6a676aa485d6d1f5e7379f5c083cdbb4e1027a84b8750a135427c13",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133714719": {
+      "digest": "3abec7dea3774e3dd10e8fa74998b47802c6c4a545d831783c8b3d4cef8bc502",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133727564": {
+      "digest": "87ae51c5f71729b0526000e4849d85d3719a1c1f2fc70d8b04e6b5677db78308",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133730600": {
+      "digest": "3326a0776f7b6b74a05f43c2fdd12fd99da3e831cd9ef76b22f9bbffd32a8483",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133740029": {
+      "digest": "8b7384d664bba80587bcbe812d7c6624ff88bac79e7102d9efdb7841e9d269dd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133744481": {
+      "digest": "7ca8c11d510c499ed13b7d1280f0d8f0160482a906a08da4288ca686111ee152",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133781943": {
+      "digest": "dd1e5516d63dcda57b579f3e345c1a1f5f43140fb930a8d42c70fcc88188e635",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133789541": {
+      "digest": "2a08dae3d0ef877ebc24aa74b2586926ae53107add7abd21b1b21908400afcea",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133794295": {
+      "digest": "48519a53f7471171bbe7f6550505d986da1682b5b60a38c2a6c618490f091816",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133797055": {
+      "digest": "fef2f2db021377c88717f3b6b0d78788f6936985c99e5b1bbd1a167de9739b25",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133806946": {
+      "digest": "b1655d2fc2fedc302f989c1660b9218a438113720c0e6c12ecc0d3a80608177d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133824516": {
+      "digest": "38a2c68b8c09ac8f36003872992bcc833dd75c9647f8f8aaad077ad789338fa5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133828243": {
+      "digest": "fabb38144a9512b6a58286659e78aecedb479794d9fe82e1ca056bbc4fe0bf2f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133856380": {
+      "digest": "1eb1a2cfe5f2d0691dbce91fa474396a3c75a7e653c2e3cc796a6984e7eef5b7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133860008": {
+      "digest": "0b89048dc8f52e7a3014a53aefb959decb319750b219230c91a5b8fec7748f3c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133867330": {
+      "digest": "90af16fa741a199dae2f33cc62e4a3f6ddea48c7152bf4f944457f0f4d300cb0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133871309": {
+      "digest": "2b4b2b76effe578412c33eb2ab59198a13c82aeb0f882f3bdb222f66a54c035f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133889680": {
+      "digest": "315a43b016cd778638a4e3c5539b6be85cfd54a0a016e3ced7715e9fa25a8396",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133903223": {
+      "digest": "ab2a324add2f13e84aca8fd945758dd1ec2ff65e751058bc40f91b7f777266a6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133925689": {
+      "digest": "8966aea082f4fab9978fb15fccb2fb7aba03c1b9f77d450c0d699806bed5bd62",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133935179": {
+      "digest": "2721f00a45db970277bb0a6ccb12e271f8ec0fbeaada34f26c70da9de7dacf26",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133968403": {
+      "digest": "ed610e917d6010616c2a917514a0fe18c1eba6f4570c3dfd6ede1272d47b81cd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133970959": {
+      "digest": "f133e4d4562de010fbe7f0b02555741db8234d417e255cb6cb636bf37d12f49b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133971889": {
+      "digest": "4337335f0b119b415e0ffaf9719a83740ffd27d053c47ef64eafdb3f60464388",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7133990949": {
+      "digest": "3eb9ad806619e277d0a9fc4225e0916f7480916d5d489677f0422b3b8315dd5c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134035246": {
+      "digest": "0d242f91101cc3229af3e07e674e67f02d3fbfdf3721abcebe14847a7a428cfe",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134037462": {
+      "digest": "9db500f525ecb7e0c728a31fdbaa65999d4cfe66a85e50ab826cac7ec93e7c38",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134046878": {
+      "digest": "a12a12ed3b6edf12098b489caf212561d30f8ff83db08535423ab59f4e1de129",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134060537": {
+      "digest": "bb191f83a6f867212b443aef8158e0adba94d5cd58bc19268a0887cb7c4f2bef",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134072876": {
+      "digest": "fcf7eb0da08ab2fdec8062db760257400d85ef12e6bd3b1ce63aad5a29ab84ca",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134075423": {
+      "digest": "0dbc448b60b44750884fa09dcf0705ffb80b8f2e48ec70c92b8a30906977ac1e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134163309": {
+      "digest": "0dbea3518c2861718cc71f844d1987756dc85da0aaf2d1517b054e9a4ca221d1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134163632": {
+      "digest": "b1b5f9ee687f03ba2b9c91ea7a170715408c669c688aa1c64d135b085840fc56",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134164266": {
+      "digest": "87462ea823d9e6e4e400808501ba65d3bd8f5200a74f20f38247e1e505c76d2b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134164306": {
+      "digest": "ee37510be249719d8fc83fc3064603fffad63d1b19e2de931b62c4b029dd59b5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134164866": {
+      "digest": "192c584fb8bcea9a42b7fba4149d7ff31b38e836708178528ea7f79c54e01b48",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134165528": {
+      "digest": "d2d52aa5e790829cef6f247b5c6bae3edb94590657cbdc900c3286509274c7ec",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134165715": {
+      "digest": "ebf47d2bda3b59f0a969e339a965fe6fd25d5a50ae9958b720d97999eb9b602c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134168546": {
+      "digest": "d091ef7f52faf2dfd5df8377f554ed1cd4347ce8451510913099f2588374cb62",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134168951": {
+      "digest": "9fd4ba45377f77c7f64b58b086724dedb9baa9c8ccc4a31dd24142bb0276b675",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134169001": {
+      "digest": "be8fc030e9e2cf512aae3d7b3cc113d07b6a52d1e234bb4b04b9be1ccf2a444c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134171154": {
+      "digest": "9bd5589b999d699ef26cd1b25686a2f4c5f2f5c051ab796f923e0ba4ab1d44d2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134171469": {
+      "digest": "fc7216da6734d4a1e6ad892026c90c358bda58aefee97dccbe6293100f085780",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134171582": {
+      "digest": "e55ba7172badfd615adbf99dbc8aa75dcf72c2105e3f6d1d8944292600fad1c4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134172376": {
+      "digest": "86642d0773ac8d10ecc6c978770573e4841696bacc344012f36373bbfd89a610",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134172579": {
+      "digest": "4bfb76891dc3bc73d402d21228350143c2df5dee9033c45e0dce13039bfb2261",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134172691": {
+      "digest": "f6d916683f45feac4db92ed4b7c7187aece0d753fdd78e0fe0f2bfb43bec08bd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134173107": {
+      "digest": "a574a313db682bee62f101c055031b70639b4e46403bc16160bd6159ba3e1fe4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134174681": {
+      "digest": "05e7a517376ef99b8d9a33b35a336fffc12647dad2362794457b9290078b409c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134175816": {
+      "digest": "bcc1230b758de8ef45af8a31af04f06f2020027922562fcd0049afcbd7749025",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134178403": {
+      "digest": "49f9a5cb10be5579e345bacd89fc12b035829f466fdad8372d94a855515dcc57",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134180443": {
+      "digest": "769b049ed0b2dc6b9e1b4e8464a99a79f41791ace84273a51fbf5177416bc378",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134182831": {
+      "digest": "322c0899ad7fc2ae8b6c7f1f8f08771527606c026b464955d1a07174a615495b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134183310": {
+      "digest": "e8239b597cff321ac9b9be42db482fd52701cc7e43db038d6c315fa9ef40760e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134183526": {
+      "digest": "ed3b408d4b1c1591138b60d1fef56e1bddd340c358df30463413af547891c61b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134183914": {
+      "digest": "53810b62b8a0a7602a05bd0565432805f7c3196d907de1e59e76be95cc35d2e1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134185060": {
+      "digest": "0976fbb5b1d0926827836bc79ab19cb7ac14e471a8786c54c94bf74a7388b0dd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134185745": {
+      "digest": "36e726e0f38dc1b5bf600bd17062ff15283fc77ca7fbc62376a82fbde252238a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134186625": {
+      "digest": "4b105d1651f3e92ad23b326b4f3c2eb67e338b7ad6c3d5e543cef68d6ba1209a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134187248": {
+      "digest": "f317155a1a56cfcddb9f8617c2dcfb049748fdcacc91de6cb735d0561e6a1425",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134193519": {
+      "digest": "1055831585f42fdaa91e07e0a85f0f05e15583fee027a57da9b19af4f9bc74a1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134194049": {
+      "digest": "261e9e560e326347b2c16e20dae4136848170d265b504bad10184899c8c73460",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134194264": {
+      "digest": "04fa67036e211b14b41f43ec62087d4a8ab4c8d6dbfc3a26c2482872cd01c6ab",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134194267": {
+      "digest": "82f87f9e0b395d0e61464a7997cc89d559384aae240cf722fd5f273dca48f2fb",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134194560": {
+      "digest": "82e3579825dd3253ae978b048903188cc387a2044c0981a03e8619de31e0f49e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134195093": {
+      "digest": "deb6db2cf8fb5f28d58fd14185e2c258ca417e498cdabc952fad63a27a6ad18c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134196069": {
+      "digest": "a049ba5359ff65aae179c50347f4d84e784c417d2ea8bdda5d06cc4583ab9b69",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134196555": {
+      "digest": "b1ce95ea9127fa338db8953adcf69c10a5ed785fb66c58cac55e786f81e8f329",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134197599": {
+      "digest": "8f9e3c772785aea43009e468a6ca4e1c5a2412f978810c3a753661d874b580d1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134198225": {
+      "digest": "d7fdb5ffa8f14ef3746ccd2698ef0a677c7e1d27647bfc808a7f75957b6130a9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134200786": {
+      "digest": "96e625132a93dee0fc2fef1f0c1783a62c2a291892c6f15a41ce080ea4a5f3d5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134201590": {
+      "digest": "86c27947532eefc0f4f331c4200c7ede6d3dc367084dda683ca4513e5e1fa1fd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134201841": {
+      "digest": "e87c47811d70a7097a533065395bf86f86f25609de33c3eb1c5a20e5fab7392e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134203514": {
+      "digest": "632b47d98054f4186e73ea2122e2d4370a209019e9962fb11e33b6b517e6b6cf",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134250307": {
+      "digest": "a27e5af5052004f4d503c20e1aa870f52fb87764f7bee33809627a669b67f4e4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134278647": {
+      "digest": "e1acd5ad0957e0c62af5b2fbf9be91a4378ab15dcd8078aad5c042f67380a1ba",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134821971": {
+      "digest": "04cd776a7f377889877a7dd621b8637f570b8aeb4293f98c3ad631e3b70b8565",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7134975020": {
+      "digest": "d466093a972fbfd381754768edeb2e2f64e9d26872ff9d577b438641767e30ea",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7135050527": {
+      "digest": "998ad7d455bb0a11313f050fa226ad8b00609845e585e210ac9f4362ec4b43df",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7135052080": {
+      "digest": "256b2a2cb954f767d9a3023341b3b46a5c5e1279096d7079399dea2394f8041c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7135095390": {
+      "digest": "ad0e8c569bb88c17278394c0de49fd898d31e5ef483ead2a2ceff7d9e66875f5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7135182130": {
+      "digest": "1247e31b6738cf891ed441537e97954086f8ec6ab47c1a5ee3a61520dc43bc3d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7135195299": {
+      "digest": "163eba4aa2b7880bed5734100a1ecf8a6574acf444ce0d6306f1b13f37e2fdd3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7135647641": {
+      "digest": "c7b9b746b229f8c705633c2484a2dc8368cc70f442b028be45380422498931eb",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7136683058": {
+      "digest": "875d91919d707113012eac2d2febe589676632183cebf8d9ea10d7031952db1e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7137954525": {
+      "digest": "18bdf690dc97055e3bc76f0fee1c53da259854ecab3b346d90070772507d5945",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7138274680": {
+      "digest": "8683a168ef41aef66d52235fcbd2fd86294c8bb77d6dacd62c9fee84436ee9f2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7138331504": {
+      "digest": "952dd35b329fae1c8f109aea1546167e2e181d2e846a0f3e84798c6cc099b79e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7138385576": {
+      "digest": "8d1ae49b79287b405d04e6a7ced909a2fe272a29f4bab4e0177ccf01de5ae079",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7139968539": {
+      "digest": "34c332fa3ba99f5cc9cae8db1134afcd3654bb74f0890cf8c648908c94103faa",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7139971764": {
+      "digest": "4697ee5141c35a346c339fddbaa5d9a661240eafbf6922dc4a5be5191b0322b8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7139973807": {
+      "digest": "eb3f94b02307823593c8fe1a70dd272409fd5972bd4927ce936c4855574095f6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7139976570": {
+      "digest": "16e123460189a3045e29523506bc71436137fcd4db237c9c5b1d5c53cafd00fa",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7139982179": {
+      "digest": "67bf99ef7943e3609199060a2d2592435652db3134c740e3cd94cc0c2dd1a5fc",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7139982674": {
+      "digest": "6439d4409419c8fb6b9f5acbcb8c1b9259d7020587da7474fc2f354e33ede9c5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7139984363": {
+      "digest": "780291584b75a886f5bf76f66c740695f5ce539c8901c2ff9a2ef0fb205b4ae5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7139993913": {
+      "digest": "4c4906c6f422ab83f78573a8fd024fa2430191537699ce4b9ca38b30044fbd5d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7139995295": {
+      "digest": "82dc397c38ca0fc9a47d5762dfef1625e09bc649ab6821999a49adfd0e940a44",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7139995690": {
+      "digest": "6800cd2fdae32f3d14f563cb5723ddfd4c9b6a81f5eb1954f8871471a41ffd69",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7139996259": {
+      "digest": "bf66a3d6a9590371965bf836f92bfca6e13dbcd2383087929312ce0e80b6c322",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7139997112": {
+      "digest": "6a0aaa003f8adc0189b0778a81a9e97fb64cc139e268fa239de0e299cd0c9800",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7140089590": {
+      "digest": "cff4aa5fc0715cbc743154cdbd80b4dae306d0558062b75cde46208733663872",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7140091183": {
+      "digest": "6fc49e0c2b798bfda7d405e0d056cb8cddfe18487f9224cb0f30f1ee63c4fd24",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7140099353": {
+      "digest": "566c7f2cbe8f41fd348dc62d47a71ea3879c5ad26e00a893746333728ac14b0b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7140099707": {
+      "digest": "0b095c17473e3e2f8aa2540699130f9c6c1ada47625589f4deaf69e0f4d094f4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7140141102": {
+      "digest": "9588f12bcc1e59f21dca44a62d8bf3111f8962a0fc4f0b5284dead313ddb17b5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7140235661": {
+      "digest": "ae280a149d528ca6b9816c8e9e36c1622d4aa72db9d68ee2ea76dc7a1c718cc7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7140297113": {
+      "digest": "7143a98dd49e5729f17e6612d59eb9bb7ec5f8c360a0425e55f8a00cefde5465",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7143335760": {
+      "digest": "0bd9d239ece30925f66ece9562f8ae558f095ca181de7f9bbaf32c1cb21eca09",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7149560289": {
+      "digest": "9eb43f04fd9a7ba3f7a2173722400ab8fd8754db39de59efcca8ed7f296f4ee8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7149617874": {
+      "digest": "6712b2be2c94cc1beb41f7d3c15fb90d7c6848725ea781850302882272abbb88",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7150755513": {
+      "digest": "95672e4ef9a6ff7ec5a033925d0c26952e57fcb1e85caa07164651e0e9ed39d5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7151025760": {
+      "digest": "f1a21601e180d4a438b0ae7997f6b443ffd11bf6fb399ea4c0a01eca04fc0063",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7151937465": {
+      "digest": "ff82618615d55ddffddb50b49cf8e96d18518045428147a81901d9ff56ab8579",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7154446094": {
+      "digest": "18604cecd2d97e628d5f9206a139ad0c06739e187ec1219f297ffd6531da3747",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7154576740": {
+      "digest": "bdc7c810c5baf9857d93c94f1f71241221fce553a68f34b4c5b0805bb7489514",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7154621404": {
+      "digest": "ab41cfff015dc9ba94973f9b68b954cbc2fb275c5ca8304d267bda3d0b34d779",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7154742788": {
+      "digest": "647d13c8e8e917cbabbad4680557130b8f85592d3f724e7b29ce759018ae04f1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7154895602": {
+      "digest": "b51dfb23c0f92ab67a2dff829fa8d7faf2aa27644e0b8a28848f9e37d2760a6d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7154938781": {
+      "digest": "78e1a7e590d63d077fb7aaf0801b93dddbbec3c148f791dc65f1764008545661",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7154952620": {
+      "digest": "c95b24f39aa211d6c3898c268a0da8d3f3e6876a8edc1b7807a481b225664eab",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7154976306": {
+      "digest": "82b25d93d0893f9fea207f3a902ef0a999eb4365da58bfff5b7930e0da0f9efa",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7154988596": {
+      "digest": "f1d76abb9cd10e404394c3a8c58be5f504fef27bd75381f3b020506c35589818",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7155082279": {
+      "digest": "6d10ca293dc3899673af8df2f369fef9e1d5d280dcef250260cc09567af2ec99",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7155204595": {
+      "digest": "7e5aa28727a4a382b2a329add981f47e50c3c0b186ab81558759acaa937967f3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7155389010": {
+      "digest": "aad48359210db275bf591d1cc98e7fe37b8246861e7a9d183003500e96cf2faf",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7155393776": {
+      "digest": "d101717ba3c235df3978d745e9c35e93733929d48667cbc1ea14abfc336c2f19",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7155505658": {
+      "digest": "0efc0b81af773f4b2b7c6457ef487f7aaae2b8fa192bc32a879248aacbf28157",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7155562727": {
+      "digest": "14215ca58da957870cdf81955c8f3f347150fe0f54b9243030035851d30ec352",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7155787461": {
+      "digest": "35148cd15de2e69cee5df7e8445a4c6d0a64ddc5e87d096017886e51eed85b89",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7159613365": {
+      "digest": "09ba6d3ff6edde0d652a24e413a5c1337b928ce2bc1c7e0723072d435af5afb7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7159680461": {
+      "digest": "e8f7c8c5bde917d1c8a29f3d155dbe77f1c83a129e85df134e080c961f05cf40",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7160265791": {
+      "digest": "c4a3504b5672a677334a5c1999d297b5101cf01a0181cab2876535b6a72c7974",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7160553526": {
+      "digest": "65572926e5d28e2b299531a07a8ae5b81c9cf23bf2436bfaef94a06ca409c2c8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7160557263": {
+      "digest": "9d3f01e644868a35232cdb15efb97ef425b4f958121ce33d197c1f51c882dc16",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7160611538": {
+      "digest": "dc2ca1f78b264317c705c1a117b3efdc8579bf7cda17cb8c211940c68985be9a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7160873290": {
+      "digest": "f40b28693ac6ca77155018c3ee1bbc542d7d13de7a3168622e60b0a797befa53",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7160899688": {
+      "digest": "9e8f1d98ffb1766d85b957f64f537ecb4c6fecad11dd331ac791ce1eb2f8457d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7160923334": {
+      "digest": "3162134c76c242c0083d13a5dfe83a79c02d565a45efdb8c1125a103f0e1d48e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7160983179": {
+      "digest": "c3a021d3cd6fa3eb0bce6caa287be7df0011ecc2f1c692c6aff6253d30b33088",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7161140834": {
+      "digest": "537474a43e67fea82f19a6c16b6868b282bbf22b40afddc478746cb81d923a5d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7161682290": {
+      "digest": "09b819c33e6eb46120bd05e3b1af197f314e44f9bac93def38c908aedcdeb5af",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7161712408": {
+      "digest": "3ff995e4f0dce22c4d0d750a0b24f3871cbbb303768484e9ce7b6327e22a3237",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7161714732": {
+      "digest": "22e1b8461d1d9dd5c9e9b6e8a2ebb79366bc4b52c6d326e57e1e44e5885e7396",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7161746474": {
+      "digest": "4f4622cc484c7f3e8bf6d012c37a381aaeb91608e0890712b39e50f8be4e54f5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7161808742": {
+      "digest": "59bcecbb350fd4f94af68e40d61cdadb247ece8ac67e568ea8920f1c2420a11c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7162511814": {
+      "digest": "f2970630a18362b6165a09a8196a3e22f77f11bce31d0a5bdaccaf0fe1b674eb",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7162758376": {
+      "digest": "45d4f2335b5a3542857570dac2583a4dbf239b052debef7594355aa382018dd8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7162775745": {
+      "digest": "ad07b385710552b1d3ab8a6a956df91f4b4634e2e5f08dc220d9155884db36af",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7162799103": {
+      "digest": "eac5f32e427e479c4ea4da011c3fe00005b928dce0fcd4fd5d91844fbf569ba1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7162799901": {
+      "digest": "d7fb3bfb466ed6199de58abfd887d89262568025336abe97aad8640e0bb9e683",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7162801201": {
+      "digest": "7e8b64308cb16ae274d79754f45c33469b8d6436cad41d520ce6ff70ab2a2ebf",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7162802908": {
+      "digest": "c27f2831f8f2b5ad97627e64115a1db1a9f4336c95d4404ea39bf05a18e9a98f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7162814936": {
+      "digest": "93189a2f6c46e3769008c011d007b154f13b607ba3978976460dea6f3a5b04b7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7163185629": {
+      "digest": "e95878160998381ca999641379a959a41890c08b1f23b00f1e7baa92754719d3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7163213223": {
+      "digest": "5ba03be4b6f5e7c1b6e9ce21c8bbc64bd70909a1c18ac11e594316206e5a769f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7163454757": {
+      "digest": "c764ae1cc7aff75cbd00f58dec5e42935159200dd5cf97d41b840ccf5d720403",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7163517252": {
+      "digest": "dabb6b16e17190c3a41f593d08fe66a97dc830951d58a3eae61d7fbc26ce9f49",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7163749452": {
+      "digest": "0b44e019be3123ff6297721e9a7bf729dbde723ee00036fdc950dcfea10f0b03",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7163754690": {
+      "digest": "0f43417d0421cdbecdc32dd74310d9b95d62938f3c203d27996ee9fafc1ee677",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7163806890": {
+      "digest": "a8b8c5c11d471c667f32faf4d5475b34814d083ed3b107ad7c73d9f1fc0f48de",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7163828139": {
+      "digest": "fc3ee36ebfbc38113813881ab745eec4a06d46a601bd770a5a53c977e1a1b93d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7163868645": {
+      "digest": "27677a9222af65c252fd3ae6ab3cb173d53e2117ff7e88fb37eaeaae2ae6ada2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7163983761": {
+      "digest": "45efb31f101b6c489c7deddcff06aef25d71befc2984cc7dcbaa32d3535310af",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7163990952": {
+      "digest": "48edbd5da8e5821f053d3dc8be2e7cc55a8052f72efc0c9350b04d05ddecbd05",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7164013022": {
+      "digest": "aa7c2c556886de2b8888be6db299f095ff5756a5a870037e2e24269e245e64e0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7164023719": {
+      "digest": "ca7a43fabe6faf0642b3e4d20282f3f3beb41b501cdf5e978fac88d9374d56bd",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7164024853": {
+      "digest": "52c639148de8b6eedd37b32c93d336c6980b39b5a08c565fe8e3812cd0f15815",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7164990469": {
+      "digest": "7d668fc7f2b3d5862bce9fc67b1773cf2f961682556db531a24e83a2ee4a8e88",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165025711": {
+      "digest": "9db86fbccd03816931cac84e63ebf2d3e5822996730241c92be1e60b353efe6d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165025763": {
+      "digest": "0611d5129812dd9e9695a8cf88bcf62821f058a1be3048ab5d63d960f0f21363",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165058284": {
+      "digest": "f77aa88e6021e1d241fdafb8ced4e4cd976578bb92d119c8c2b927e357d90e85",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165061518": {
+      "digest": "244a3beb022b252bf440ee3ec1d6360e45f7cec6e3276bc1acdf7586cb3af740",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165062814": {
+      "digest": "2c6be8516f331209b4fde4bef875fc2a8566300b9f795d29fc7cfd4ec5c6380b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165458276": {
+      "digest": "132112c354802b31185ab249a8c4e72e23a35cfe7c59710664f4ee878fef7ce8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165486099": {
+      "digest": "704fed17f2fc9296e48c685e80658ffaa33652cf1db7e55db7ed0ccd97e14419",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165491744": {
+      "digest": "775d333b5a5c6aeb4e733e7c43fb1857e530907df43436dc1a8a0a9bebe96f4b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165517492": {
+      "digest": "e4bca6a003217aff299c487bb9e55842c84fe315b37ba94b6600fa965d0c644e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165518767": {
+      "digest": "aef24d204de2e0b95c7e87b47627ea55ce4ca5d7614541f7da28b47feaeb23c5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165547522": {
+      "digest": "05f2a94f1ae4ae1cc2af0ee420ef1325dc3dee5e153379329946819ccb4c76f6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165568352": {
+      "digest": "36b9f30334297fa5aa729bc659a8505e5aabb4999043d9375494d43e2d1e829c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165656323": {
+      "digest": "6402e657f757777a669c81a7418079de0c2099e438c4def60557e921b88647d4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165832434": {
+      "digest": "b5ec6860cdba68c09fa8a2513bfb373bff334761ad9cf3d4b6e14231c8e69f38",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7165876387": {
+      "digest": "6ba7168ed56297aaae7c213823553eb3979ebbecdacd1d60f0a9a2a3a2bbfbc1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7166303162": {
+      "digest": "df8b67e3410982f534aa8755a6d8f2137b0303ee9ae28e6f3a6b3aa173fb7be6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7166321664": {
+      "digest": "df2020e4d8d293f10eeb7b471eee6acd5977b9f361b04d464f7e4337a2709f54",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7166506976": {
+      "digest": "8d4bb72c2016c95daeabbed91d6480c628861a511195932e43bb9466d85f28aa",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7166527888": {
+      "digest": "124a47072bf0e6cc77ab5803e9380853d318ed7c88d88a3e17ab12193309f829",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7166539518": {
+      "digest": "e0ea4537f253a6caacf22627303e9afe9c407b4f1068e5be7ffa6709a3026fd0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7166541670": {
+      "digest": "3c962a1c23722d85c18e54279411d4debe6b8de110c1c0907cce122bb719e5b4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7166558722": {
+      "digest": "6d5bc33ab78f5307b239e1f16d3860447fa38de09a29a7e91f8ef93d098e2c04",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7166674580": {
+      "digest": "0a822b199c2d7d22aac754aee4c5e7743c9c0d40251f27e52b7a03de9130c6ff",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7167463748": {
+      "digest": "90322cdd7cd4c4f41d906b7a54bca8cf8b4e1fea6f78e72e9fb54cf9e4a1ce38",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7167464333": {
+      "digest": "753909d4c868d33907951f1ae82dc6ee29803cba5b384062b4f0954d2acbfcab",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7167504481": {
+      "digest": "553c536352455d4862856094ebff1d14e96dc711c20f2124f83c57a2427ff28d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7167511916": {
+      "digest": "9cdb041e6d0e188c79aec9d7f758bc6fbaf52ebb3db85b43beb20d339425088a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7167736047": {
+      "digest": "198d39bb3c73735cc872cef341ad2f95b04132197d09edf68daa7da9a06d0c77",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7167816528": {
+      "digest": "8517d9ce90472cd06b8f62637fb61d7c616d253b79072d17bbe977c2d7e42a6e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7168125978": {
+      "digest": "67cf7b16515ad07fff1242e8a79a1310ebcae55a0d75e37ee974fe7c4f05b852",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7168279709": {
+      "digest": "c05152ded04f59dc60cc1003b144fc5c59528ff2054fbf4ecbf9a2eec73af103",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7168362373": {
+      "digest": "452ade17d085c316a646d7d07d8218dedebc3dae164347753eb4184d15afed96",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7168428187": {
+      "digest": "4715e23d5c93ff7bf6259ae2da109135db95624a30bc33bc84b2e090e63294da",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7169706954": {
+      "digest": "c6be4712aa3843d2638a5f7308631e08965b3d7df4aba96b4847793de01ab558",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7169724246": {
+      "digest": "1f2397ba944ed523550aae0bd7a90c6967b6ea906286a4793d263eb58fc9a1f7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7169733109": {
+      "digest": "f368314eea12953bdef95f3e375ec0935e6d2680c5bf51f95e06a0cfa82255e2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7170034675": {
+      "digest": "908f0af71acc93f96ab94b6c9138e8546c19196a976cd68b6f1145587424541e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7170040537": {
+      "digest": "895df994d8519862d24be8634e6b98ef1d9d9d11779112784891e3a6da7657b1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7170192638": {
+      "digest": "7ce08ca528ce7026c56b66e6d4088ba91dc4184666d0aa49d09eee8bdb9a3ec0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7170592953": {
+      "digest": "4003cf2cbe3e9e215fb9aef63bb22eeabe1725cfa5ceab61d87cdd975156623d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171046686": {
+      "digest": "244948b78edf9d58372f08e45213dad1a23549295eba9e9db6da4907ecaf201a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171245313": {
+      "digest": "cff140160651388dbd17db85c809595e33917bf9e20dad3a2d9c957234081212",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171373952": {
+      "digest": "84698291965173e00a4b7b96ffebd6da4373a0d35195e390462464532761b37c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171378931": {
+      "digest": "80c70e2484296209e28960f9913e7e00f01378f268c6bf1cb637afc2f19d9588",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171383779": {
+      "digest": "cdd28627e4b661229dcc766c3d4045b9ff10b7a24d36a7996df1ea430211b2f2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171408234": {
+      "digest": "b4888f374a7dfbc3a7c3970e92b4509b56218f0e07284bfcbb8f86c1b8290009",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171457500": {
+      "digest": "8f125cfb482931bdfd00fc5e519e4167f7ecd4f09e5021e079e77982a2eee849",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171457595": {
+      "digest": "0750a1b0c1de0d028215a325c3f217c9e6c9c057ce5a13e11359e4bb91802906",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171459775": {
+      "digest": "d507d0ad38d1f8861ca14e2d46fda7ecbb58c8b4987522e86bc7e74d62385a5d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171462839": {
+      "digest": "17cb3b498618537770994857e44544a61630b20330dc30c5bcde90868e99581c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171507999": {
+      "digest": "f5f19e6b99fa222a0a3aca476cccd949b5d4a521ee1d21c323d8bb962a6da78f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171538450": {
+      "digest": "fc2f48c067f399be925c2e71818c7c8289725739dd6a02766280e2ef4962d867",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171545306": {
+      "digest": "b37123380112cc17794837c7dd4cd26d9de2e7b32979a7820b6963f3e6b19ba2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171554689": {
+      "digest": "1a37ed09c3081880906ae8113c9fe314b8702d5333a6b50289ffa83c16e9d505",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171653683": {
+      "digest": "6088e9b92f2ff18332d2fcc2f55ad1e91b3bbaefb52ccf02b521fddf578b814a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171658412": {
+      "digest": "a1b38d2a66ec82c46097f1617df825baaeba6879e6c249b1292478a6d53782e6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171795602": {
+      "digest": "19d6c05ad52ab9289890523b5bf481e427dc307b9570b6470f51910daee18d29",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7171825329": {
+      "digest": "9290ee2ff766155641a6a2cd3a04e12fb4e375cf8095d3135f6bb22e5dc8b964",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7172400890": {
+      "digest": "8740caf7a492101e453b1c71742e09d0a49d369dd4c39002afb77dd016cd8e99",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7196990544": {
+      "digest": "33eedce0e297769bb4a1b461e2663073ca40e1669259aa5d4483825d8607ffb5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7199761964": {
+      "digest": "90ba7839c921878012eacd2e34c74820a544dc274a257015c428e139446c393c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7201851334": {
+      "digest": "aeec0255943369086a28dcbc18bfc7efc77ef81c3ee375e39d93c4181f909690",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7201886986": {
+      "digest": "aa7545fd4c97c975aab60abac9b46f8e36f89ca32fc19e657a2daa72621ce187",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7201967226": {
+      "digest": "e4e8fe5ab08fa50b2071c8fb37cf2b7f26fe398b0ed811e69f90003081fdcec1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7201974943": {
+      "digest": "ba172a1d5428d3d1ea8351ada48f93c006d91fd640f88e0f1ea59c62772ccb32",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7202128473": {
+      "digest": "5c8fe0d36c856e705edb442a646b631082fdb1067e13bd7062343715753a388c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7202137381": {
+      "digest": "b5efc011475e3236dfc7928f8fe9bc1b890098db7a4b3500ee19b5a95f0b26fe",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7202140176": {
+      "digest": "9414f8091cbb3fb9056a0551d0fd2101543813083db21cf1e0a318b6efc10a94",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7202195507": {
+      "digest": "fb748a93141b53dfc2a381e0da153023994bcb4f126df89693154b66d86bbb5f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7202346598": {
+      "digest": "78bd12e423a70413dd604e7f23c5cb8476562a18764b524d8cb9ca26f5f2c65e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7202359712": {
+      "digest": "2274626d56a86dd7505ca561e541bb379143f52493d37cd4a5933549d415054c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7203488141": {
+      "digest": "c45c5e064407a2217f7b76ecd3e7372b7808d62b86c1f72c9e47ae39cd5c3d48",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7203683186": {
+      "digest": "804a5d489e6d629ad020c2b971ed1658b77005724fa3b82f5f0063b0b65aa1b8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7203787604": {
+      "digest": "6d937860b3d9f338b5c9a49023384c25885f567343817947956dee842bb2d302",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7203973325": {
+      "digest": "7eea14fd8da712dd760561bc2d827fc85941803c9dd64668cc801692374f7fa9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7204102481": {
+      "digest": "af8bbc71298fe174e020910a0476bc489b2638223c9e97095a32a8e430653763",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7204632265": {
+      "digest": "7371aa172ec598b3822c4cf0f61fbb8d49e36906da1ce7c089d71632f795fbdf",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7204799179": {
+      "digest": "c233cbe97ffcfd54e752cf0481fbfacded2be64d4ddfd39f7214212428480ae1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7204961452": {
+      "digest": "a1e67074cdbc9ca28d9cc00d672e7ed729ec78a45bb09f9aff101bea497235b0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7207611489": {
+      "digest": "496efd403da724121cf562422b59822be964f7301e1e49a8676fab310f4c8ad1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7207873742": {
+      "digest": "3472831dc9a893445b8fd5a3d5df17b167004f081e896364e6ec93e75cfb08ad",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7208716128": {
+      "digest": "c608e9e489e0874c55272c75b94bc4e2e0ae90e38cb4181f0e27657fd84a48b0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7211888409": {
+      "digest": "cf0af68806783585f042c7317db41da5b9ea86f2b02874f51be6f40a9a188469",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7211949824": {
+      "digest": "9e4cc1e89eee9340cc9c36793e9d47dbc95afc0a36d52bca29a17cc4df88c087",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7211960877": {
+      "digest": "709803c77687c6f83c0d409385381561c4b96590853b8c7656c52d03940ff1e3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7212021933": {
+      "digest": "cf82ba7ea95f846599b16ede8495c10cb0d5575a5ed95c93534850d251c7e7a7",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7212176171": {
+      "digest": "4bbc8faad01f617cee1cacc34848ef9460c86b7c69e0f1772908994b38ce5a47",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7212309535": {
+      "digest": "325e541f54e24c2d3b28648eeb45becf26df10de9f0353002f0e2c1717fa7bd4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7212563654": {
+      "digest": "d267f455ef1d3279a808a3cdd70de19cd10814525672fa08b9cae302280db4c4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7213435623": {
+      "digest": "32334cc34bcbf0b3110ca1513d42a3619080309e7ec58ca594c69699ed4a6679",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7213520338": {
+      "digest": "807725c1b40e8ed8ace311e97e6017c28afd2811849cdcff0cd1155d63c744e0",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7213869758": {
+      "digest": "5dffaf8aece8024a9b7caf306335bcaa6e2e9d409d934826ae6adc0010a7633a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214227474": {
+      "digest": "25dd362994dc9ec878f14fa914c7a962838203211f4261f34d18762304e00d9b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214263917": {
+      "digest": "b5269f1227f0c83dcf36cedd0d8268c028d84fc25b9060c5430ed37998300b1f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214279696": {
+      "digest": "2e6c180b8c321243310f0a2d9260cfaa64572efb1fc8c5ecc8ecc979f607b20c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214396873": {
+      "digest": "0e8d721998c45d2b5d77975995a548ad1256b55361847d0d6c9db1a9029d2ffc",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214503911": {
+      "digest": "9f5a3bc4ecf34830f36f8bdda9500168cd22b2952057e0377c723a376a7a6687",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214605336": {
+      "digest": "901a62be7761cca989427fd9436789479de05683ec2091b2cbe06986c39dfc8c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214625107": {
+      "digest": "2a8fc1231ee6268d1195009bc71acf46e342f9fa1abe78cacbc63c25fc23f37b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214629838": {
+      "digest": "2cf6d33788bedfe263135c243958468412688589268566e85b944818df2b8a8f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214658638": {
+      "digest": "e939415281c116e6137edd348a5351eeb352d92772c845d83f1c89e10f91811b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214678195": {
+      "digest": "36a55abe9ee5348c4c685cc11a915144fdd71816a7888ddbce8396a080291793",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214887559": {
+      "digest": "9a50f2ed68f7fdb7db8a44bf41b2e571ee055aad556d4c5ff1daf0d1e1cafbf6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214923658": {
+      "digest": "5d582657e21ac0897e1ba76b27c44bcae4a5fe05f0a73f1abc873a64b025ab7e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7214974362": {
+      "digest": "ec40f509bf351d98dc1c587744d92af01d8c3c7ab1551c23c3e18ab3d9515e65",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7215040733": {
+      "digest": "90fbb539673230bba82883f2c62d1187895f0bad907a99c1f81a1152099ccfe1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7215062377": {
+      "digest": "e5900e910cd3d2bde6d8bfc949b2858d65cace1bdfc3134ba8349305fcd2e2bf",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7215067011": {
+      "digest": "dc92aa8ca03f2b1418485652a01f97efd2ca72b2af73e3e87b88b6f028aedbc5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7215078731": {
+      "digest": "0fbec18ad72f9c7ef02cbbc9df8ce10329d0b5d4feac22a29f8116c6da04c64c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7215083715": {
+      "digest": "82d06aa3821b858018736b73b2ed08e6c47e81b6796fe030d5c6fdc09a1abc0d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7216019586": {
+      "digest": "ff5fb52f1547aca201190a1513c3e7a562b494f16dd279442c2a3c128b4196c5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7216064197": {
+      "digest": "316a763b403335e50f4133f99dae8732e98f08f7fe6dc40ed5d37f06956cedc1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7217812715": {
+      "digest": "d4e814f19bf881836f3ac52f50bbd8f2779e46753bcd3231947f45f6750f060c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7220459260": {
+      "digest": "2721d236cbf6c2c01cbddd4f3382882db5bc2a5735a759fbc5e418db34eabdea",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7220459518": {
+      "digest": "c8993501d20a1888bf3db01f998fcc025cc91a3ec5eee675daa0e42b59eadbd4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7220736592": {
+      "digest": "bcaa34b5918255aa26d353b4baf24dec2530d294db53241704180815ed1efde2",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7220996823": {
+      "digest": "f654bc51defc88ff059181edaae482d104e461cb3852e7bfa7b91d579a1d6eed",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7221328357": {
+      "digest": "196675a855aca135d1d3d2634b87c89227fc23e18bc0c5f007a787b8729989ae",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7221330258": {
+      "digest": "7ab3acd4dcd1c0ee7f042bb3aa2484faa30dae9da5b3206d099167a287726ada",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7221434793": {
+      "digest": "bcb40b90130887c260e2e9683216cc48c171b6ad619c44fcb5290e62d5b1d605",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7221464703": {
+      "digest": "9b5784d65583fad62ee85e1d30873cab9e50f5569ad9da918b0563b80c4575a1",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7221529309": {
+      "digest": "0483fc91d68b541fb8f3702062f01c028341608dd68b8acb4cbb74c24b75979c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7221549776": {
+      "digest": "87efe35a3092d3307917d4285b9ae6eb6977081472ccdcde619384d2ca06fd6f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7221550461": {
+      "digest": "a4afe5c8e28d618f9889fee83e85af562fc31262a5f7cacb4096b6cc3897b984",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7221575212": {
+      "digest": "0db3874e1f963f1fcdf7641aabe5fddb0c0a4fe6022898bacf643d65126e7288",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7222118278": {
+      "digest": "032a6815c262c2c09e317db1e730ce77aee942169238f992fd89884f64baa56a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7222819005": {
+      "digest": "7c7a1560402cb51d17bcbff38931822d5e687c3fb9aa967954252fc37c6efbf4",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7222922527": {
+      "digest": "ad0505e15c2d40e3a0580812a067487a1cafadf1066dfcdb6a93996720dcdb5b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7222998058": {
+      "digest": "ab675037246f2668541436817591ba90d9d483467906cd0da8ccad15425e4a48",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223000380": {
+      "digest": "526e2225de93e7b76613129f1f0eea516e7dbc54418747378ab4702007233207",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223006947": {
+      "digest": "9b9f1f385249a8617b7177abe74ec3d75a13558ecf094c03c13580b415b2d18f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223014188": {
+      "digest": "a6b590acf2420e110b144674f817ff3febcb84b7161648361c763d72ba3a49c8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223016230": {
+      "digest": "ff03f79ca1a1c8a298e3348ecb27e049ede6be58e7826a5a38bab84a2a3b89ad",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223025366": {
+      "digest": "4c184c6d4890ab1f4fd6ba285324ce1ef52a1ccde2e43893a3da6836267e3456",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223035337": {
+      "digest": "a1f52edda28a985bde6e983e7a2e43850b1aac61619ecec20dbefa1670ab3cf5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223035574": {
+      "digest": "00c950f9cd08e01aa7336ace3f662790de09abb3004f868237d9d4df94fba723",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223041611": {
+      "digest": "80048c1487f7ab702fde6103fb1ca5e331ac246263f28af88098be0d042f1d03",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223063606": {
+      "digest": "412aa6ae6b9626f1b9ea4e65fc9e0fe0b9b4b8518f34f11fd04974fcab412cd9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223066516": {
+      "digest": "e92abd3ac0f3d76197aff61fbf633d537bcf0933c8b5749f117519099fe25563",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223122942": {
+      "digest": "8d4b0c569dec84d65fce320d2d1ce0be04e8a3bb72f7ad7c1a538d5be1b4a870",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223211904": {
+      "digest": "09bdcc7f39eade0955f54cb6cae4decf2adcd596b2e55e35830c5f5e975276e6",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223567837": {
+      "digest": "1e2e5595d1e9979e06079befb453a04e186ee617790748c9037b66b3b429b46f",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223661546": {
+      "digest": "8f592a691c1a8e6b63fa96dcbdba7611ffb4d226fdc5f7965b34eb57a8057d7d",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223825441": {
+      "digest": "8d29742563861a5a1d41df09776294596d51c510c1dae7ff192d7d04cf5755c9",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7223955199": {
+      "digest": "eb17299d9934f8f0a46bce07df57064424e361e98ae255ea8379894d6b9e59ac",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7224030028": {
+      "digest": "0f6d1d25aa9ab40f2e4ee3a81723bb5a4c9d38d814cf06cd7577afa8461c880c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7224137807": {
+      "digest": "7200ee38d179f81465589d09bc779c89a58b0ab7d93ed99e8fbc352eb441a4cc",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7224331510": {
+      "digest": "4ad12ee7532d4c9389bd2f40683e880d118dccbd57197404c7f0e4bbd13c4688",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7224552627": {
+      "digest": "46b8814ae4ce0995fa1a4fd05ca25bd18e202de2583f9fddc64f0464ef90be24",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7224582484": {
+      "digest": "30f02c2230d66ef1669d7d44ebf0dbb11012da2c0932dc540246604e15d657f5",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7224684105": {
+      "digest": "f3bc219658c214eaa89e39ae1ac2b45a5ad54ef29d359bc6000c001f4c633b5a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7224746272": {
+      "digest": "34a94af85006cb5a444ab36e88924b9c621c3e0d4a884acc3fa4804e3a8e0a9b",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7224798713": {
+      "digest": "ce9ed8b88f355a44ff71608c4a0f3ce8276d59dd3186773eb316a18df4e1af5c",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7224861868": {
+      "digest": "72f847f9ea26763c523fac26b32ca34e92fb28494e7a0ced2645b7d4791c5a0a",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7224903751": {
+      "digest": "471e312a2e7eb2b5045360c1281505e1f31a8f1aca0d206b299f54469db7b36e",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7224989580": {
+      "digest": "ea81aa0b54d58e5903ed3e7a79fb0989f7620abfce5adc318f7ebd0881131317",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7224996682": {
+      "digest": "388e4e767f6b60d9cd7921e4f30ce280e84319d23af830b57b0d3b71c239b648",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7225002011": {
+      "digest": "e62ba66e8112cc7fcfcd68aa0610dbc9ff7cbd994012baf7665ed8cd399b13c3",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7225005160": {
+      "digest": "e8c784684810d369d83533bdd8cc7d2fc43845d57e4539528579072e1a0c5a82",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7225016372": {
+      "digest": "989f8ec1fcf2469ce9ad25e4fb9e48fb5e2eabc410e1f072639cd8df4babf302",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7225036635": {
+      "digest": "d6125e9235379078904a68f9403d3ade9ccf9f62e5be7ccaf4b60aa20b465af8",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7225075870": {
+      "digest": "7079160727ec7bb1bd1494ad2475d926908403f07949a97e80d266ebd6ae9917",
+      "updated_at": "2026-11-03T12:29:21Z"
+    },
+    "openalex:W7225085179": {
+      "digest": "c90f899f8ab15d5608f0b040a9758a967184e8f9eae371b5e9cd6e5cf92ad450",
+      "updated_at": "2026-11-03T12:29:21Z"
     }
   }
 }
