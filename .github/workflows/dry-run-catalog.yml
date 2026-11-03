@@ -1,0 +1,28 @@
+
+name: Dry-run research catalog
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  dry-run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run offline safety tests
+        run: python -m unittest discover -s scripts -p "test_*.py" -v
+
+      - name: Discover and validate without publishing
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python scripts/daily_update.py --pages 10 --dry-run
